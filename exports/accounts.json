@@ -1,0 +1,3502 @@
+[
+  {
+    "Account_id": "1",
+    "Account_Balance": "15795.09",
+    "Branch_id": "353",
+    "Date_Opened": "2007-10-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "2",
+    "Account_Balance": "21303.58",
+    "Branch_id": "55",
+    "Date_Opened": "2022-05-03",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "3",
+    "Account_Balance": "42748.85",
+    "Branch_id": "130",
+    "Date_Opened": "2019-12-12",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "4",
+    "Account_Balance": "30594.03",
+    "Branch_id": "290",
+    "Date_Opened": "2017-08-09",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "5",
+    "Account_Balance": "20661.41",
+    "Branch_id": "387",
+    "Date_Opened": "2021-03-28",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "6",
+    "Account_Balance": "18510.65",
+    "Branch_id": "248",
+    "Date_Opened": "2021-10-18",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "7",
+    "Account_Balance": "49425.41",
+    "Branch_id": "248",
+    "Date_Opened": "2020-02-12",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "8",
+    "Account_Balance": "35274.73",
+    "Branch_id": "177",
+    "Date_Opened": "2008-06-10",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "9",
+    "Account_Balance": "32964.14",
+    "Branch_id": "438",
+    "Date_Opened": "2006-06-07",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "10",
+    "Account_Balance": "34965.57",
+    "Branch_id": "229",
+    "Date_Opened": "2008-03-29",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "11",
+    "Account_Balance": "25417.18",
+    "Branch_id": "52",
+    "Date_Opened": "2020-12-30",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "12",
+    "Account_Balance": "30701.27",
+    "Branch_id": "411",
+    "Date_Opened": "2013-06-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "13",
+    "Account_Balance": "48228.51",
+    "Branch_id": "83",
+    "Date_Opened": "2017-01-29",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "14",
+    "Account_Balance": "41162.77",
+    "Branch_id": "412",
+    "Date_Opened": "2023-10-06",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "15",
+    "Account_Balance": "21768.87",
+    "Branch_id": "475",
+    "Date_Opened": "2012-05-05",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "16",
+    "Account_Balance": "18541.76",
+    "Branch_id": "135",
+    "Date_Opened": "2020-10-31",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "17",
+    "Account_Balance": "19216.30",
+    "Branch_id": "20",
+    "Date_Opened": "2009-07-22",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "18",
+    "Account_Balance": "26050.28",
+    "Branch_id": "315",
+    "Date_Opened": "2011-02-02",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "19",
+    "Account_Balance": "41011.44",
+    "Branch_id": "30",
+    "Date_Opened": "2008-06-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "20",
+    "Account_Balance": "10085.36",
+    "Branch_id": "225",
+    "Date_Opened": "2025-07-26",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "21",
+    "Account_Balance": "1680.47",
+    "Branch_id": "147",
+    "Date_Opened": "2021-06-09",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "22",
+    "Account_Balance": "34922.49",
+    "Branch_id": "262",
+    "Date_Opened": "2014-03-28",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "23",
+    "Account_Balance": "1803.06",
+    "Branch_id": "87",
+    "Date_Opened": "2010-09-09",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "24",
+    "Account_Balance": "48782.30",
+    "Branch_id": "336",
+    "Date_Opened": "2025-10-19",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "25",
+    "Account_Balance": "19971.68",
+    "Branch_id": "142",
+    "Date_Opened": "2008-04-26",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "26",
+    "Account_Balance": "10015.52",
+    "Branch_id": "208",
+    "Date_Opened": "2012-08-29",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "27",
+    "Account_Balance": "3430.86",
+    "Branch_id": "378",
+    "Date_Opened": "2010-01-09",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "28",
+    "Account_Balance": "36306.94",
+    "Branch_id": "282",
+    "Date_Opened": "2019-06-05",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "29",
+    "Account_Balance": "17404.76",
+    "Branch_id": "469",
+    "Date_Opened": "2012-09-24",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "30",
+    "Account_Balance": "48152.86",
+    "Branch_id": "116",
+    "Date_Opened": "2012-03-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "31",
+    "Account_Balance": "28745.34",
+    "Branch_id": "477",
+    "Date_Opened": "2016-09-29",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "32",
+    "Account_Balance": "25311.90",
+    "Branch_id": "90",
+    "Date_Opened": "2016-09-03",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "33",
+    "Account_Balance": "14712.59",
+    "Branch_id": "38",
+    "Date_Opened": "2014-07-10",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "34",
+    "Account_Balance": "47835.47",
+    "Branch_id": "412",
+    "Date_Opened": "2014-04-18",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "35",
+    "Account_Balance": "28744.69",
+    "Branch_id": "417",
+    "Date_Opened": "2008-01-05",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "36",
+    "Account_Balance": "28158.43",
+    "Branch_id": "495",
+    "Date_Opened": "2017-05-07",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "37",
+    "Account_Balance": "48061.94",
+    "Branch_id": "388",
+    "Date_Opened": "2018-03-10",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "38",
+    "Account_Balance": "44826.19",
+    "Branch_id": "349",
+    "Date_Opened": "2015-06-22",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "39",
+    "Account_Balance": "12890.99",
+    "Branch_id": "247",
+    "Date_Opened": "2023-03-14",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "40",
+    "Account_Balance": "49709.90",
+    "Branch_id": "325",
+    "Date_Opened": "2008-02-13",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "41",
+    "Account_Balance": "20621.30",
+    "Branch_id": "410",
+    "Date_Opened": "2018-09-22",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "42",
+    "Account_Balance": "2835.74",
+    "Branch_id": "265",
+    "Date_Opened": "2013-10-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "43",
+    "Account_Balance": "4650.47",
+    "Branch_id": "128",
+    "Date_Opened": "2019-05-13",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "44",
+    "Account_Balance": "46569.81",
+    "Branch_id": "39",
+    "Date_Opened": "2013-05-15",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "45",
+    "Account_Balance": "10928.31",
+    "Branch_id": "161",
+    "Date_Opened": "2017-11-16",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "46",
+    "Account_Balance": "47355.91",
+    "Branch_id": "138",
+    "Date_Opened": "2021-09-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "47",
+    "Account_Balance": "9983.33",
+    "Branch_id": "256",
+    "Date_Opened": "2009-04-10",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "48",
+    "Account_Balance": "10338.93",
+    "Branch_id": "447",
+    "Date_Opened": "2019-11-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "49",
+    "Account_Balance": "41816.74",
+    "Branch_id": "428",
+    "Date_Opened": "2020-03-16",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "50",
+    "Account_Balance": "5334.46",
+    "Branch_id": "80",
+    "Date_Opened": "2008-05-02",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "51",
+    "Account_Balance": "24633.24",
+    "Branch_id": "347",
+    "Date_Opened": "2010-12-05",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "52",
+    "Account_Balance": "27073.70",
+    "Branch_id": "392",
+    "Date_Opened": "2006-08-01",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "53",
+    "Account_Balance": "18559.83",
+    "Branch_id": "435",
+    "Date_Opened": "2014-12-28",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "54",
+    "Account_Balance": "44849.99",
+    "Branch_id": "253",
+    "Date_Opened": "2006-01-17",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "55",
+    "Account_Balance": "49219.73",
+    "Branch_id": "252",
+    "Date_Opened": "2021-09-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "56",
+    "Account_Balance": "11104.64",
+    "Branch_id": "144",
+    "Date_Opened": "2016-11-18",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "57",
+    "Account_Balance": "26286.77",
+    "Branch_id": "66",
+    "Date_Opened": "2024-08-04",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "58",
+    "Account_Balance": "1628.13",
+    "Branch_id": "245",
+    "Date_Opened": "2013-09-05",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "59",
+    "Account_Balance": "34316.93",
+    "Branch_id": "202",
+    "Date_Opened": "2006-07-05",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "60",
+    "Account_Balance": "34912.23",
+    "Branch_id": "235",
+    "Date_Opened": "2023-02-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "61",
+    "Account_Balance": "420.93",
+    "Branch_id": "162",
+    "Date_Opened": "2010-05-07",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "62",
+    "Account_Balance": "5037.39",
+    "Branch_id": "195",
+    "Date_Opened": "2012-10-10",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "63",
+    "Account_Balance": "12985.04",
+    "Branch_id": "314",
+    "Date_Opened": "2006-06-23",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "64",
+    "Account_Balance": "13470.41",
+    "Branch_id": "135",
+    "Date_Opened": "2020-06-27",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "65",
+    "Account_Balance": "9195.68",
+    "Branch_id": "176",
+    "Date_Opened": "2017-08-07",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "66",
+    "Account_Balance": "35035.63",
+    "Branch_id": "108",
+    "Date_Opened": "2016-05-28",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "67",
+    "Account_Balance": "20029.63",
+    "Branch_id": "187",
+    "Date_Opened": "2006-08-24",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "68",
+    "Account_Balance": "6556.96",
+    "Branch_id": "93",
+    "Date_Opened": "2012-12-28",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "69",
+    "Account_Balance": "40709.53",
+    "Branch_id": "352",
+    "Date_Opened": "2020-09-05",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "70",
+    "Account_Balance": "27767.00",
+    "Branch_id": "412",
+    "Date_Opened": "2020-07-08",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "71",
+    "Account_Balance": "40001.87",
+    "Branch_id": "101",
+    "Date_Opened": "2022-07-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "72",
+    "Account_Balance": "487.11",
+    "Branch_id": "243",
+    "Date_Opened": "2007-09-26",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "73",
+    "Account_Balance": "49778.09",
+    "Branch_id": "256",
+    "Date_Opened": "2022-10-16",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "74",
+    "Account_Balance": "15786.36",
+    "Branch_id": "274",
+    "Date_Opened": "2009-08-24",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "75",
+    "Account_Balance": "28106.92",
+    "Branch_id": "154",
+    "Date_Opened": "2020-03-06",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "76",
+    "Account_Balance": "4948.74",
+    "Branch_id": "25",
+    "Date_Opened": "2016-11-14",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "77",
+    "Account_Balance": "40690.90",
+    "Branch_id": "31",
+    "Date_Opened": "2020-12-21",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "78",
+    "Account_Balance": "4815.09",
+    "Branch_id": "430",
+    "Date_Opened": "2011-09-06",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "79",
+    "Account_Balance": "18015.33",
+    "Branch_id": "134",
+    "Date_Opened": "2017-09-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "80",
+    "Account_Balance": "12885.74",
+    "Branch_id": "478",
+    "Date_Opened": "2007-08-22",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "81",
+    "Account_Balance": "17554.52",
+    "Branch_id": "211",
+    "Date_Opened": "2023-02-01",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "82",
+    "Account_Balance": "28794.72",
+    "Branch_id": "102",
+    "Date_Opened": "2012-11-13",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "83",
+    "Account_Balance": "14230.44",
+    "Branch_id": "90",
+    "Date_Opened": "2008-04-21",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "84",
+    "Account_Balance": "24374.69",
+    "Branch_id": "345",
+    "Date_Opened": "2014-05-11",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "85",
+    "Account_Balance": "19053.55",
+    "Branch_id": "456",
+    "Date_Opened": "2024-01-18",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "86",
+    "Account_Balance": "47829.72",
+    "Branch_id": "238",
+    "Date_Opened": "2011-08-22",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "87",
+    "Account_Balance": "46428.33",
+    "Branch_id": "328",
+    "Date_Opened": "2007-09-10",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "88",
+    "Account_Balance": "28581.88",
+    "Branch_id": "324",
+    "Date_Opened": "2012-01-27",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "89",
+    "Account_Balance": "17181.27",
+    "Branch_id": "41",
+    "Date_Opened": "2022-03-04",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "90",
+    "Account_Balance": "14567.82",
+    "Branch_id": "163",
+    "Date_Opened": "2011-02-28",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "91",
+    "Account_Balance": "19772.77",
+    "Branch_id": "310",
+    "Date_Opened": "2011-05-08",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "92",
+    "Account_Balance": "46938.49",
+    "Branch_id": "400",
+    "Date_Opened": "2006-06-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "93",
+    "Account_Balance": "20699.45",
+    "Branch_id": "267",
+    "Date_Opened": "2015-09-16",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "94",
+    "Account_Balance": "6252.00",
+    "Branch_id": "438",
+    "Date_Opened": "2025-04-15",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "95",
+    "Account_Balance": "47021.87",
+    "Branch_id": "339",
+    "Date_Opened": "2020-02-29",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "96",
+    "Account_Balance": "19852.28",
+    "Branch_id": "108",
+    "Date_Opened": "2022-01-23",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "97",
+    "Account_Balance": "23659.29",
+    "Branch_id": "33",
+    "Date_Opened": "2006-02-05",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "98",
+    "Account_Balance": "19850.63",
+    "Branch_id": "14",
+    "Date_Opened": "2008-07-07",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "99",
+    "Account_Balance": "30905.11",
+    "Branch_id": "54",
+    "Date_Opened": "2019-12-02",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "100",
+    "Account_Balance": "19492.31",
+    "Branch_id": "336",
+    "Date_Opened": "2005-12-12",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "101",
+    "Account_Balance": "14208.76",
+    "Branch_id": "127",
+    "Date_Opened": "2009-04-06",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "102",
+    "Account_Balance": "41925.89",
+    "Branch_id": "68",
+    "Date_Opened": "2013-12-28",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "103",
+    "Account_Balance": "17842.06",
+    "Branch_id": "18",
+    "Date_Opened": "2010-12-04",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "104",
+    "Account_Balance": "23359.67",
+    "Branch_id": "443",
+    "Date_Opened": "2015-02-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "105",
+    "Account_Balance": "27427.26",
+    "Branch_id": "479",
+    "Date_Opened": "2019-09-12",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "106",
+    "Account_Balance": "26964.38",
+    "Branch_id": "497",
+    "Date_Opened": "2010-02-28",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "107",
+    "Account_Balance": "31552.38",
+    "Branch_id": "306",
+    "Date_Opened": "2015-07-26",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "108",
+    "Account_Balance": "31989.33",
+    "Branch_id": "223",
+    "Date_Opened": "2014-01-24",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "109",
+    "Account_Balance": "24082.58",
+    "Branch_id": "159",
+    "Date_Opened": "2018-01-07",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "110",
+    "Account_Balance": "22093.02",
+    "Branch_id": "413",
+    "Date_Opened": "2023-10-19",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "111",
+    "Account_Balance": "7785.88",
+    "Branch_id": "212",
+    "Date_Opened": "2019-12-24",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "112",
+    "Account_Balance": "40768.99",
+    "Branch_id": "1",
+    "Date_Opened": "2014-01-25",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "113",
+    "Account_Balance": "23459.90",
+    "Branch_id": "177",
+    "Date_Opened": "2019-05-17",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "114",
+    "Account_Balance": "47347.88",
+    "Branch_id": "353",
+    "Date_Opened": "2014-10-10",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "115",
+    "Account_Balance": "38293.46",
+    "Branch_id": "154",
+    "Date_Opened": "2025-08-08",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "116",
+    "Account_Balance": "39838.37",
+    "Branch_id": "306",
+    "Date_Opened": "2020-08-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "117",
+    "Account_Balance": "20586.79",
+    "Branch_id": "192",
+    "Date_Opened": "2021-07-30",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "118",
+    "Account_Balance": "12494.81",
+    "Branch_id": "224",
+    "Date_Opened": "2016-12-14",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "119",
+    "Account_Balance": "11029.62",
+    "Branch_id": "425",
+    "Date_Opened": "2017-04-27",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "120",
+    "Account_Balance": "11978.09",
+    "Branch_id": "217",
+    "Date_Opened": "2011-10-13",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "121",
+    "Account_Balance": "34232.01",
+    "Branch_id": "414",
+    "Date_Opened": "2010-03-30",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "122",
+    "Account_Balance": "26597.21",
+    "Branch_id": "333",
+    "Date_Opened": "2009-02-21",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "123",
+    "Account_Balance": "42674.10",
+    "Branch_id": "212",
+    "Date_Opened": "2021-08-03",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "124",
+    "Account_Balance": "5517.82",
+    "Branch_id": "70",
+    "Date_Opened": "2019-04-24",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "125",
+    "Account_Balance": "13606.71",
+    "Branch_id": "317",
+    "Date_Opened": "2015-08-26",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "126",
+    "Account_Balance": "16032.19",
+    "Branch_id": "252",
+    "Date_Opened": "2021-08-05",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "127",
+    "Account_Balance": "1106.54",
+    "Branch_id": "26",
+    "Date_Opened": "2013-10-22",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "128",
+    "Account_Balance": "6251.96",
+    "Branch_id": "145",
+    "Date_Opened": "2019-10-08",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "129",
+    "Account_Balance": "11640.52",
+    "Branch_id": "373",
+    "Date_Opened": "2025-08-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "130",
+    "Account_Balance": "10859.40",
+    "Branch_id": "8",
+    "Date_Opened": "2014-09-26",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "131",
+    "Account_Balance": "39973.12",
+    "Branch_id": "160",
+    "Date_Opened": "2008-03-08",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "132",
+    "Account_Balance": "39571.24",
+    "Branch_id": "238",
+    "Date_Opened": "2010-03-05",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "133",
+    "Account_Balance": "37528.48",
+    "Branch_id": "42",
+    "Date_Opened": "2006-11-20",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "134",
+    "Account_Balance": "38782.65",
+    "Branch_id": "29",
+    "Date_Opened": "2019-10-30",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "135",
+    "Account_Balance": "9080.19",
+    "Branch_id": "279",
+    "Date_Opened": "2015-04-06",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "136",
+    "Account_Balance": "41412.60",
+    "Branch_id": "419",
+    "Date_Opened": "2017-04-01",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "137",
+    "Account_Balance": "35734.13",
+    "Branch_id": "499",
+    "Date_Opened": "2008-07-30",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "138",
+    "Account_Balance": "12358.11",
+    "Branch_id": "395",
+    "Date_Opened": "2015-11-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "139",
+    "Account_Balance": "36766.14",
+    "Branch_id": "102",
+    "Date_Opened": "2015-06-21",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "140",
+    "Account_Balance": "49105.79",
+    "Branch_id": "267",
+    "Date_Opened": "2010-11-14",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "141",
+    "Account_Balance": "48060.69",
+    "Branch_id": "200",
+    "Date_Opened": "2010-07-10",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "142",
+    "Account_Balance": "36411.85",
+    "Branch_id": "82",
+    "Date_Opened": "2011-09-11",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "143",
+    "Account_Balance": "12665.64",
+    "Branch_id": "267",
+    "Date_Opened": "2023-01-25",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "144",
+    "Account_Balance": "44375.98",
+    "Branch_id": "102",
+    "Date_Opened": "2017-09-21",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "145",
+    "Account_Balance": "11798.29",
+    "Branch_id": "499",
+    "Date_Opened": "2023-04-10",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "146",
+    "Account_Balance": "8368.02",
+    "Branch_id": "167",
+    "Date_Opened": "2025-06-20",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "147",
+    "Account_Balance": "19790.42",
+    "Branch_id": "300",
+    "Date_Opened": "2023-02-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "148",
+    "Account_Balance": "29053.85",
+    "Branch_id": "5",
+    "Date_Opened": "2024-11-11",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "149",
+    "Account_Balance": "7749.60",
+    "Branch_id": "353",
+    "Date_Opened": "2012-06-07",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "150",
+    "Account_Balance": "24995.96",
+    "Branch_id": "128",
+    "Date_Opened": "2022-04-09",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "151",
+    "Account_Balance": "31256.62",
+    "Branch_id": "174",
+    "Date_Opened": "2008-10-08",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "152",
+    "Account_Balance": "7695.92",
+    "Branch_id": "183",
+    "Date_Opened": "2011-05-08",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "153",
+    "Account_Balance": "6291.37",
+    "Branch_id": "406",
+    "Date_Opened": "2023-05-26",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "154",
+    "Account_Balance": "39428.09",
+    "Branch_id": "163",
+    "Date_Opened": "2013-04-13",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "155",
+    "Account_Balance": "36659.44",
+    "Branch_id": "413",
+    "Date_Opened": "2015-12-20",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "156",
+    "Account_Balance": "17908.37",
+    "Branch_id": "353",
+    "Date_Opened": "2017-05-02",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "157",
+    "Account_Balance": "24265.11",
+    "Branch_id": "129",
+    "Date_Opened": "2024-12-02",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "158",
+    "Account_Balance": "27136.70",
+    "Branch_id": "287",
+    "Date_Opened": "2019-03-13",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "159",
+    "Account_Balance": "9331.34",
+    "Branch_id": "98",
+    "Date_Opened": "2013-02-04",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "160",
+    "Account_Balance": "23419.74",
+    "Branch_id": "166",
+    "Date_Opened": "2009-05-19",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "161",
+    "Account_Balance": "27726.02",
+    "Branch_id": "469",
+    "Date_Opened": "2006-07-04",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "162",
+    "Account_Balance": "22469.21",
+    "Branch_id": "272",
+    "Date_Opened": "2022-05-01",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "163",
+    "Account_Balance": "22703.95",
+    "Branch_id": "278",
+    "Date_Opened": "2017-07-28",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "164",
+    "Account_Balance": "9276.71",
+    "Branch_id": "195",
+    "Date_Opened": "2009-05-08",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "165",
+    "Account_Balance": "18203.76",
+    "Branch_id": "318",
+    "Date_Opened": "2006-08-03",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "166",
+    "Account_Balance": "36050.18",
+    "Branch_id": "123",
+    "Date_Opened": "2018-08-12",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "167",
+    "Account_Balance": "9493.47",
+    "Branch_id": "420",
+    "Date_Opened": "2017-02-11",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "168",
+    "Account_Balance": "7706.58",
+    "Branch_id": "393",
+    "Date_Opened": "2013-06-09",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "169",
+    "Account_Balance": "32045.20",
+    "Branch_id": "166",
+    "Date_Opened": "2016-08-12",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "170",
+    "Account_Balance": "32944.55",
+    "Branch_id": "50",
+    "Date_Opened": "2014-01-26",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "171",
+    "Account_Balance": "8931.94",
+    "Branch_id": "428",
+    "Date_Opened": "2022-11-23",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "172",
+    "Account_Balance": "24268.51",
+    "Branch_id": "104",
+    "Date_Opened": "2023-05-29",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "173",
+    "Account_Balance": "32087.58",
+    "Branch_id": "17",
+    "Date_Opened": "2012-12-31",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "174",
+    "Account_Balance": "26291.07",
+    "Branch_id": "337",
+    "Date_Opened": "2014-10-26",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "175",
+    "Account_Balance": "18317.70",
+    "Branch_id": "132",
+    "Date_Opened": "2024-09-14",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "176",
+    "Account_Balance": "654.31",
+    "Branch_id": "368",
+    "Date_Opened": "2024-03-20",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "177",
+    "Account_Balance": "46420.19",
+    "Branch_id": "336",
+    "Date_Opened": "2014-10-14",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "178",
+    "Account_Balance": "31945.84",
+    "Branch_id": "240",
+    "Date_Opened": "2007-11-04",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "179",
+    "Account_Balance": "46912.19",
+    "Branch_id": "286",
+    "Date_Opened": "2009-02-17",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "180",
+    "Account_Balance": "39712.48",
+    "Branch_id": "421",
+    "Date_Opened": "2017-07-12",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "181",
+    "Account_Balance": "13290.78",
+    "Branch_id": "422",
+    "Date_Opened": "2011-12-21",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "182",
+    "Account_Balance": "41722.82",
+    "Branch_id": "376",
+    "Date_Opened": "2024-03-24",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "183",
+    "Account_Balance": "48029.34",
+    "Branch_id": "484",
+    "Date_Opened": "2020-12-18",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "184",
+    "Account_Balance": "11550.90",
+    "Branch_id": "52",
+    "Date_Opened": "2009-07-17",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "185",
+    "Account_Balance": "26309.60",
+    "Branch_id": "98",
+    "Date_Opened": "2021-06-22",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "186",
+    "Account_Balance": "47375.17",
+    "Branch_id": "292",
+    "Date_Opened": "2011-10-13",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "187",
+    "Account_Balance": "20759.23",
+    "Branch_id": "384",
+    "Date_Opened": "2013-04-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "188",
+    "Account_Balance": "28828.18",
+    "Branch_id": "393",
+    "Date_Opened": "2011-06-26",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "189",
+    "Account_Balance": "21353.75",
+    "Branch_id": "360",
+    "Date_Opened": "2010-11-20",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "190",
+    "Account_Balance": "9019.83",
+    "Branch_id": "86",
+    "Date_Opened": "2008-01-13",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "191",
+    "Account_Balance": "32876.59",
+    "Branch_id": "259",
+    "Date_Opened": "2018-03-28",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "192",
+    "Account_Balance": "46676.00",
+    "Branch_id": "308",
+    "Date_Opened": "2015-11-14",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "193",
+    "Account_Balance": "42242.70",
+    "Branch_id": "282",
+    "Date_Opened": "2018-07-11",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "194",
+    "Account_Balance": "21529.40",
+    "Branch_id": "392",
+    "Date_Opened": "2011-08-09",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "195",
+    "Account_Balance": "28157.24",
+    "Branch_id": "312",
+    "Date_Opened": "2020-05-29",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "196",
+    "Account_Balance": "27511.94",
+    "Branch_id": "193",
+    "Date_Opened": "2008-08-19",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "197",
+    "Account_Balance": "22374.99",
+    "Branch_id": "185",
+    "Date_Opened": "2015-08-29",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "198",
+    "Account_Balance": "1733.15",
+    "Branch_id": "1",
+    "Date_Opened": "2009-07-08",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "199",
+    "Account_Balance": "25880.47",
+    "Branch_id": "306",
+    "Date_Opened": "2025-06-10",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "200",
+    "Account_Balance": "49219.72",
+    "Branch_id": "4",
+    "Date_Opened": "2019-01-26",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "201",
+    "Account_Balance": "1085.07",
+    "Branch_id": "439",
+    "Date_Opened": "2018-09-29",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "202",
+    "Account_Balance": "25563.57",
+    "Branch_id": "471",
+    "Date_Opened": "2013-05-22",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "203",
+    "Account_Balance": "7735.74",
+    "Branch_id": "475",
+    "Date_Opened": "2012-12-26",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "204",
+    "Account_Balance": "7805.36",
+    "Branch_id": "236",
+    "Date_Opened": "2017-10-30",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "205",
+    "Account_Balance": "29107.79",
+    "Branch_id": "188",
+    "Date_Opened": "2005-11-08",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "206",
+    "Account_Balance": "15015.12",
+    "Branch_id": "132",
+    "Date_Opened": "2007-08-13",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "207",
+    "Account_Balance": "45894.09",
+    "Branch_id": "205",
+    "Date_Opened": "2013-01-16",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "208",
+    "Account_Balance": "39645.21",
+    "Branch_id": "371",
+    "Date_Opened": "2018-07-11",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "209",
+    "Account_Balance": "44951.20",
+    "Branch_id": "250",
+    "Date_Opened": "2007-04-15",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "210",
+    "Account_Balance": "29761.56",
+    "Branch_id": "420",
+    "Date_Opened": "2023-09-01",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "211",
+    "Account_Balance": "40417.06",
+    "Branch_id": "20",
+    "Date_Opened": "2009-06-01",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "212",
+    "Account_Balance": "2796.14",
+    "Branch_id": "41",
+    "Date_Opened": "2008-04-23",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "213",
+    "Account_Balance": "40857.09",
+    "Branch_id": "179",
+    "Date_Opened": "2006-01-27",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "214",
+    "Account_Balance": "6027.03",
+    "Branch_id": "477",
+    "Date_Opened": "2006-05-05",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "215",
+    "Account_Balance": "42473.91",
+    "Branch_id": "383",
+    "Date_Opened": "2011-03-02",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "216",
+    "Account_Balance": "31609.68",
+    "Branch_id": "325",
+    "Date_Opened": "2008-05-15",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "217",
+    "Account_Balance": "2059.11",
+    "Branch_id": "157",
+    "Date_Opened": "2014-01-17",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "218",
+    "Account_Balance": "16341.58",
+    "Branch_id": "290",
+    "Date_Opened": "2022-06-14",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "219",
+    "Account_Balance": "33681.76",
+    "Branch_id": "79",
+    "Date_Opened": "2024-09-03",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "220",
+    "Account_Balance": "37642.01",
+    "Branch_id": "498",
+    "Date_Opened": "2015-10-24",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "221",
+    "Account_Balance": "11104.28",
+    "Branch_id": "259",
+    "Date_Opened": "2023-10-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "222",
+    "Account_Balance": "7400.62",
+    "Branch_id": "403",
+    "Date_Opened": "2016-12-17",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "223",
+    "Account_Balance": "28572.03",
+    "Branch_id": "43",
+    "Date_Opened": "2015-02-18",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "224",
+    "Account_Balance": "13127.90",
+    "Branch_id": "281",
+    "Date_Opened": "2016-11-07",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "225",
+    "Account_Balance": "38691.26",
+    "Branch_id": "257",
+    "Date_Opened": "2016-01-23",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "226",
+    "Account_Balance": "24046.13",
+    "Branch_id": "391",
+    "Date_Opened": "2022-10-13",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "227",
+    "Account_Balance": "32612.42",
+    "Branch_id": "250",
+    "Date_Opened": "2016-12-09",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "228",
+    "Account_Balance": "49853.94",
+    "Branch_id": "288",
+    "Date_Opened": "2011-12-28",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "229",
+    "Account_Balance": "3582.20",
+    "Branch_id": "127",
+    "Date_Opened": "2020-05-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "230",
+    "Account_Balance": "46206.90",
+    "Branch_id": "166",
+    "Date_Opened": "2010-06-13",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "231",
+    "Account_Balance": "20679.10",
+    "Branch_id": "58",
+    "Date_Opened": "2010-09-28",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "232",
+    "Account_Balance": "16036.92",
+    "Branch_id": "179",
+    "Date_Opened": "2021-07-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "233",
+    "Account_Balance": "38484.06",
+    "Branch_id": "336",
+    "Date_Opened": "2025-04-06",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "234",
+    "Account_Balance": "41079.20",
+    "Branch_id": "180",
+    "Date_Opened": "2011-12-26",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "235",
+    "Account_Balance": "22023.17",
+    "Branch_id": "320",
+    "Date_Opened": "2022-07-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "236",
+    "Account_Balance": "18691.04",
+    "Branch_id": "103",
+    "Date_Opened": "2010-06-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "237",
+    "Account_Balance": "2726.90",
+    "Branch_id": "58",
+    "Date_Opened": "2009-03-21",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "238",
+    "Account_Balance": "43437.62",
+    "Branch_id": "475",
+    "Date_Opened": "2022-06-30",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "239",
+    "Account_Balance": "34689.76",
+    "Branch_id": "8",
+    "Date_Opened": "2018-02-08",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "240",
+    "Account_Balance": "23559.52",
+    "Branch_id": "157",
+    "Date_Opened": "2015-09-18",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "241",
+    "Account_Balance": "26900.27",
+    "Branch_id": "108",
+    "Date_Opened": "2009-03-17",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "242",
+    "Account_Balance": "37517.76",
+    "Branch_id": "280",
+    "Date_Opened": "2014-01-26",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "243",
+    "Account_Balance": "36496.18",
+    "Branch_id": "248",
+    "Date_Opened": "2011-11-01",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "244",
+    "Account_Balance": "33413.03",
+    "Branch_id": "356",
+    "Date_Opened": "2010-02-18",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "245",
+    "Account_Balance": "26339.95",
+    "Branch_id": "299",
+    "Date_Opened": "2010-12-04",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "246",
+    "Account_Balance": "14200.68",
+    "Branch_id": "88",
+    "Date_Opened": "2024-06-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "247",
+    "Account_Balance": "23248.04",
+    "Branch_id": "139",
+    "Date_Opened": "2024-08-13",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "248",
+    "Account_Balance": "33018.64",
+    "Branch_id": "35",
+    "Date_Opened": "2017-02-02",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "249",
+    "Account_Balance": "3006.61",
+    "Branch_id": "443",
+    "Date_Opened": "2023-05-22",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "250",
+    "Account_Balance": "25427.02",
+    "Branch_id": "119",
+    "Date_Opened": "2017-04-08",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "251",
+    "Account_Balance": "24233.11",
+    "Branch_id": "463",
+    "Date_Opened": "2018-09-24",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "252",
+    "Account_Balance": "9320.87",
+    "Branch_id": "273",
+    "Date_Opened": "2023-10-31",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "253",
+    "Account_Balance": "28034.38",
+    "Branch_id": "495",
+    "Date_Opened": "2015-07-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "254",
+    "Account_Balance": "46113.51",
+    "Branch_id": "21",
+    "Date_Opened": "2020-04-04",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "255",
+    "Account_Balance": "19669.99",
+    "Branch_id": "171",
+    "Date_Opened": "2014-10-26",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "256",
+    "Account_Balance": "34215.57",
+    "Branch_id": "10",
+    "Date_Opened": "2018-01-11",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "257",
+    "Account_Balance": "11810.24",
+    "Branch_id": "321",
+    "Date_Opened": "2019-01-10",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "258",
+    "Account_Balance": "3100.48",
+    "Branch_id": "142",
+    "Date_Opened": "2007-08-06",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "259",
+    "Account_Balance": "44520.10",
+    "Branch_id": "450",
+    "Date_Opened": "2017-02-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "260",
+    "Account_Balance": "47455.82",
+    "Branch_id": "484",
+    "Date_Opened": "2013-05-11",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "261",
+    "Account_Balance": "44858.77",
+    "Branch_id": "78",
+    "Date_Opened": "2018-02-21",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "262",
+    "Account_Balance": "19110.36",
+    "Branch_id": "45",
+    "Date_Opened": "2009-06-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "263",
+    "Account_Balance": "34326.17",
+    "Branch_id": "447",
+    "Date_Opened": "2011-10-11",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "264",
+    "Account_Balance": "7637.46",
+    "Branch_id": "124",
+    "Date_Opened": "2012-12-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "265",
+    "Account_Balance": "16464.24",
+    "Branch_id": "466",
+    "Date_Opened": "2012-03-24",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "266",
+    "Account_Balance": "32623.63",
+    "Branch_id": "68",
+    "Date_Opened": "2021-03-03",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "267",
+    "Account_Balance": "40005.25",
+    "Branch_id": "278",
+    "Date_Opened": "2010-06-19",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "268",
+    "Account_Balance": "35256.82",
+    "Branch_id": "159",
+    "Date_Opened": "2010-05-13",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "269",
+    "Account_Balance": "21503.21",
+    "Branch_id": "466",
+    "Date_Opened": "2022-10-10",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "270",
+    "Account_Balance": "45855.61",
+    "Branch_id": "336",
+    "Date_Opened": "2013-02-19",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "271",
+    "Account_Balance": "26648.08",
+    "Branch_id": "35",
+    "Date_Opened": "2013-04-22",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "272",
+    "Account_Balance": "41976.13",
+    "Branch_id": "95",
+    "Date_Opened": "2018-09-07",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "273",
+    "Account_Balance": "38271.75",
+    "Branch_id": "373",
+    "Date_Opened": "2025-02-22",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "274",
+    "Account_Balance": "15167.41",
+    "Branch_id": "493",
+    "Date_Opened": "2016-08-01",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "275",
+    "Account_Balance": "9396.68",
+    "Branch_id": "78",
+    "Date_Opened": "2008-05-01",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "276",
+    "Account_Balance": "38122.37",
+    "Branch_id": "95",
+    "Date_Opened": "2025-03-21",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "277",
+    "Account_Balance": "30280.23",
+    "Branch_id": "316",
+    "Date_Opened": "2019-10-27",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "278",
+    "Account_Balance": "11609.13",
+    "Branch_id": "119",
+    "Date_Opened": "2012-06-06",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "279",
+    "Account_Balance": "34407.06",
+    "Branch_id": "184",
+    "Date_Opened": "2024-01-09",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "280",
+    "Account_Balance": "42306.91",
+    "Branch_id": "69",
+    "Date_Opened": "2014-07-16",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "281",
+    "Account_Balance": "18697.97",
+    "Branch_id": "365",
+    "Date_Opened": "2011-03-28",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "282",
+    "Account_Balance": "6875.64",
+    "Branch_id": "252",
+    "Date_Opened": "2015-03-07",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "283",
+    "Account_Balance": "20429.46",
+    "Branch_id": "116",
+    "Date_Opened": "2025-01-30",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "284",
+    "Account_Balance": "47509.90",
+    "Branch_id": "474",
+    "Date_Opened": "2019-10-03",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "285",
+    "Account_Balance": "49412.17",
+    "Branch_id": "381",
+    "Date_Opened": "2010-10-01",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "286",
+    "Account_Balance": "46355.16",
+    "Branch_id": "34",
+    "Date_Opened": "2021-11-01",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "287",
+    "Account_Balance": "24497.14",
+    "Branch_id": "444",
+    "Date_Opened": "2011-12-20",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "288",
+    "Account_Balance": "44379.35",
+    "Branch_id": "444",
+    "Date_Opened": "2015-07-18",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "289",
+    "Account_Balance": "2091.31",
+    "Branch_id": "208",
+    "Date_Opened": "2008-05-25",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "290",
+    "Account_Balance": "19707.54",
+    "Branch_id": "369",
+    "Date_Opened": "2018-10-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "291",
+    "Account_Balance": "26261.53",
+    "Branch_id": "305",
+    "Date_Opened": "2013-10-12",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "292",
+    "Account_Balance": "22580.48",
+    "Branch_id": "267",
+    "Date_Opened": "2023-05-10",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "293",
+    "Account_Balance": "25935.13",
+    "Branch_id": "450",
+    "Date_Opened": "2020-04-18",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "294",
+    "Account_Balance": "27885.05",
+    "Branch_id": "377",
+    "Date_Opened": "2024-12-04",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "295",
+    "Account_Balance": "48129.62",
+    "Branch_id": "392",
+    "Date_Opened": "2011-08-30",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "296",
+    "Account_Balance": "19901.99",
+    "Branch_id": "150",
+    "Date_Opened": "2015-12-13",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "297",
+    "Account_Balance": "14295.73",
+    "Branch_id": "397",
+    "Date_Opened": "2007-03-31",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "298",
+    "Account_Balance": "30656.71",
+    "Branch_id": "217",
+    "Date_Opened": "2019-03-16",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "299",
+    "Account_Balance": "45183.78",
+    "Branch_id": "354",
+    "Date_Opened": "2014-03-18",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "300",
+    "Account_Balance": "22584.90",
+    "Branch_id": "425",
+    "Date_Opened": "2011-04-26",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "301",
+    "Account_Balance": "38936.56",
+    "Branch_id": "58",
+    "Date_Opened": "2021-10-10",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "302",
+    "Account_Balance": "20677.97",
+    "Branch_id": "70",
+    "Date_Opened": "2016-12-27",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "303",
+    "Account_Balance": "22684.04",
+    "Branch_id": "13",
+    "Date_Opened": "2021-10-17",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "304",
+    "Account_Balance": "4508.98",
+    "Branch_id": "452",
+    "Date_Opened": "2015-08-11",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "305",
+    "Account_Balance": "45358.12",
+    "Branch_id": "355",
+    "Date_Opened": "2011-04-05",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "306",
+    "Account_Balance": "6177.21",
+    "Branch_id": "368",
+    "Date_Opened": "2009-05-12",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "307",
+    "Account_Balance": "31703.62",
+    "Branch_id": "362",
+    "Date_Opened": "2015-09-23",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "308",
+    "Account_Balance": "19204.37",
+    "Branch_id": "269",
+    "Date_Opened": "2009-12-10",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "309",
+    "Account_Balance": "18933.93",
+    "Branch_id": "314",
+    "Date_Opened": "2022-03-22",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "310",
+    "Account_Balance": "8544.25",
+    "Branch_id": "23",
+    "Date_Opened": "2008-07-29",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "311",
+    "Account_Balance": "32976.52",
+    "Branch_id": "290",
+    "Date_Opened": "2006-04-07",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "312",
+    "Account_Balance": "7230.37",
+    "Branch_id": "84",
+    "Date_Opened": "2006-04-27",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "313",
+    "Account_Balance": "15475.92",
+    "Branch_id": "215",
+    "Date_Opened": "2018-11-24",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "314",
+    "Account_Balance": "9034.80",
+    "Branch_id": "148",
+    "Date_Opened": "2011-10-04",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "315",
+    "Account_Balance": "176.64",
+    "Branch_id": "492",
+    "Date_Opened": "2021-04-04",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "316",
+    "Account_Balance": "24881.38",
+    "Branch_id": "7",
+    "Date_Opened": "2015-07-09",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "317",
+    "Account_Balance": "287.53",
+    "Branch_id": "279",
+    "Date_Opened": "2007-09-12",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "318",
+    "Account_Balance": "29443.12",
+    "Branch_id": "122",
+    "Date_Opened": "2020-12-10",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "319",
+    "Account_Balance": "22093.77",
+    "Branch_id": "233",
+    "Date_Opened": "2016-08-10",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "320",
+    "Account_Balance": "12235.66",
+    "Branch_id": "308",
+    "Date_Opened": "2025-08-29",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "321",
+    "Account_Balance": "31431.77",
+    "Branch_id": "143",
+    "Date_Opened": "2011-11-27",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "322",
+    "Account_Balance": "7412.81",
+    "Branch_id": "26",
+    "Date_Opened": "2021-08-29",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "323",
+    "Account_Balance": "42691.46",
+    "Branch_id": "19",
+    "Date_Opened": "2022-07-19",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "324",
+    "Account_Balance": "14922.08",
+    "Branch_id": "430",
+    "Date_Opened": "2012-04-10",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "325",
+    "Account_Balance": "20847.85",
+    "Branch_id": "26",
+    "Date_Opened": "2023-05-13",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "326",
+    "Account_Balance": "14219.03",
+    "Branch_id": "83",
+    "Date_Opened": "2010-09-25",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "327",
+    "Account_Balance": "28108.86",
+    "Branch_id": "294",
+    "Date_Opened": "2008-02-24",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "328",
+    "Account_Balance": "18009.43",
+    "Branch_id": "384",
+    "Date_Opened": "2012-10-27",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "329",
+    "Account_Balance": "14964.72",
+    "Branch_id": "48",
+    "Date_Opened": "2008-07-27",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "330",
+    "Account_Balance": "41013.24",
+    "Branch_id": "460",
+    "Date_Opened": "2017-04-22",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "331",
+    "Account_Balance": "3246.29",
+    "Branch_id": "432",
+    "Date_Opened": "2013-06-17",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "332",
+    "Account_Balance": "34730.97",
+    "Branch_id": "69",
+    "Date_Opened": "2023-01-26",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "333",
+    "Account_Balance": "20687.90",
+    "Branch_id": "169",
+    "Date_Opened": "2013-12-26",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "334",
+    "Account_Balance": "30602.69",
+    "Branch_id": "357",
+    "Date_Opened": "2021-02-12",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "335",
+    "Account_Balance": "48967.50",
+    "Branch_id": "293",
+    "Date_Opened": "2009-06-10",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "336",
+    "Account_Balance": "36203.71",
+    "Branch_id": "45",
+    "Date_Opened": "2014-12-16",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "337",
+    "Account_Balance": "49313.92",
+    "Branch_id": "479",
+    "Date_Opened": "2008-02-17",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "338",
+    "Account_Balance": "42389.90",
+    "Branch_id": "219",
+    "Date_Opened": "2012-02-25",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "339",
+    "Account_Balance": "49751.22",
+    "Branch_id": "270",
+    "Date_Opened": "2012-11-27",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "340",
+    "Account_Balance": "30714.50",
+    "Branch_id": "475",
+    "Date_Opened": "2022-11-24",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "341",
+    "Account_Balance": "31592.88",
+    "Branch_id": "267",
+    "Date_Opened": "2009-06-14",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "342",
+    "Account_Balance": "44183.18",
+    "Branch_id": "414",
+    "Date_Opened": "2021-10-09",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "343",
+    "Account_Balance": "48962.88",
+    "Branch_id": "363",
+    "Date_Opened": "2019-04-17",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "344",
+    "Account_Balance": "23244.28",
+    "Branch_id": "61",
+    "Date_Opened": "2025-04-08",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "345",
+    "Account_Balance": "10366.54",
+    "Branch_id": "378",
+    "Date_Opened": "2006-10-14",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "346",
+    "Account_Balance": "2274.61",
+    "Branch_id": "213",
+    "Date_Opened": "2016-07-09",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "347",
+    "Account_Balance": "31875.18",
+    "Branch_id": "287",
+    "Date_Opened": "2007-09-23",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "348",
+    "Account_Balance": "34500.85",
+    "Branch_id": "328",
+    "Date_Opened": "2021-04-17",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "349",
+    "Account_Balance": "15388.63",
+    "Branch_id": "405",
+    "Date_Opened": "2024-04-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "350",
+    "Account_Balance": "38351.63",
+    "Branch_id": "282",
+    "Date_Opened": "2018-07-17",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "351",
+    "Account_Balance": "17068.08",
+    "Branch_id": "352",
+    "Date_Opened": "2018-05-01",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "352",
+    "Account_Balance": "41602.14",
+    "Branch_id": "316",
+    "Date_Opened": "2025-02-25",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "353",
+    "Account_Balance": "16896.84",
+    "Branch_id": "170",
+    "Date_Opened": "2007-02-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "354",
+    "Account_Balance": "39862.72",
+    "Branch_id": "470",
+    "Date_Opened": "2015-03-01",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "355",
+    "Account_Balance": "31360.02",
+    "Branch_id": "247",
+    "Date_Opened": "2022-04-28",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "356",
+    "Account_Balance": "23123.50",
+    "Branch_id": "459",
+    "Date_Opened": "2018-04-16",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "357",
+    "Account_Balance": "2801.11",
+    "Branch_id": "476",
+    "Date_Opened": "2009-02-24",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "358",
+    "Account_Balance": "36248.21",
+    "Branch_id": "154",
+    "Date_Opened": "2013-02-18",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "359",
+    "Account_Balance": "3008.70",
+    "Branch_id": "285",
+    "Date_Opened": "2013-10-15",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "360",
+    "Account_Balance": "39976.77",
+    "Branch_id": "351",
+    "Date_Opened": "2018-05-14",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "361",
+    "Account_Balance": "14023.00",
+    "Branch_id": "34",
+    "Date_Opened": "2022-06-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "362",
+    "Account_Balance": "31325.54",
+    "Branch_id": "174",
+    "Date_Opened": "2017-05-23",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "363",
+    "Account_Balance": "19478.31",
+    "Branch_id": "293",
+    "Date_Opened": "2012-03-22",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "364",
+    "Account_Balance": "39117.20",
+    "Branch_id": "60",
+    "Date_Opened": "2006-06-01",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "365",
+    "Account_Balance": "15724.97",
+    "Branch_id": "362",
+    "Date_Opened": "2006-07-26",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "366",
+    "Account_Balance": "4339.89",
+    "Branch_id": "140",
+    "Date_Opened": "2016-07-10",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "367",
+    "Account_Balance": "41472.87",
+    "Branch_id": "191",
+    "Date_Opened": "2015-09-02",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "368",
+    "Account_Balance": "15115.91",
+    "Branch_id": "111",
+    "Date_Opened": "2014-01-11",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "369",
+    "Account_Balance": "1869.75",
+    "Branch_id": "192",
+    "Date_Opened": "2008-03-14",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "370",
+    "Account_Balance": "22188.70",
+    "Branch_id": "468",
+    "Date_Opened": "2023-09-24",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "371",
+    "Account_Balance": "45247.79",
+    "Branch_id": "410",
+    "Date_Opened": "2014-12-25",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "372",
+    "Account_Balance": "46181.84",
+    "Branch_id": "98",
+    "Date_Opened": "2018-03-06",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "373",
+    "Account_Balance": "16366.90",
+    "Branch_id": "159",
+    "Date_Opened": "2008-05-30",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "374",
+    "Account_Balance": "33835.86",
+    "Branch_id": "421",
+    "Date_Opened": "2014-03-25",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "375",
+    "Account_Balance": "1827.63",
+    "Branch_id": "106",
+    "Date_Opened": "2009-07-22",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "376",
+    "Account_Balance": "26117.24",
+    "Branch_id": "366",
+    "Date_Opened": "2006-05-30",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "377",
+    "Account_Balance": "34352.62",
+    "Branch_id": "160",
+    "Date_Opened": "2024-10-26",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "378",
+    "Account_Balance": "16664.49",
+    "Branch_id": "447",
+    "Date_Opened": "2023-11-08",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "379",
+    "Account_Balance": "38309.01",
+    "Branch_id": "53",
+    "Date_Opened": "2014-02-17",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "380",
+    "Account_Balance": "37924.69",
+    "Branch_id": "12",
+    "Date_Opened": "2012-11-07",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "381",
+    "Account_Balance": "9627.28",
+    "Branch_id": "165",
+    "Date_Opened": "2021-04-23",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "382",
+    "Account_Balance": "38639.35",
+    "Branch_id": "273",
+    "Date_Opened": "2018-08-25",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "383",
+    "Account_Balance": "7874.80",
+    "Branch_id": "140",
+    "Date_Opened": "2022-06-16",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "384",
+    "Account_Balance": "27981.29",
+    "Branch_id": "8",
+    "Date_Opened": "2011-11-01",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "385",
+    "Account_Balance": "17515.91",
+    "Branch_id": "106",
+    "Date_Opened": "2013-08-21",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "386",
+    "Account_Balance": "47163.89",
+    "Branch_id": "139",
+    "Date_Opened": "2022-08-19",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "387",
+    "Account_Balance": "8563.75",
+    "Branch_id": "294",
+    "Date_Opened": "2020-04-25",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "388",
+    "Account_Balance": "27028.86",
+    "Branch_id": "314",
+    "Date_Opened": "2018-03-18",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "389",
+    "Account_Balance": "23536.78",
+    "Branch_id": "67",
+    "Date_Opened": "2025-02-26",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "390",
+    "Account_Balance": "2689.99",
+    "Branch_id": "55",
+    "Date_Opened": "2017-03-15",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "391",
+    "Account_Balance": "35233.88",
+    "Branch_id": "201",
+    "Date_Opened": "2021-10-16",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "392",
+    "Account_Balance": "34506.24",
+    "Branch_id": "323",
+    "Date_Opened": "2007-01-20",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "393",
+    "Account_Balance": "15622.03",
+    "Branch_id": "316",
+    "Date_Opened": "2017-10-30",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "394",
+    "Account_Balance": "33543.51",
+    "Branch_id": "366",
+    "Date_Opened": "2008-10-18",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "395",
+    "Account_Balance": "38221.41",
+    "Branch_id": "41",
+    "Date_Opened": "2008-11-08",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "396",
+    "Account_Balance": "40642.55",
+    "Branch_id": "68",
+    "Date_Opened": "2023-09-21",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "397",
+    "Account_Balance": "15519.58",
+    "Branch_id": "50",
+    "Date_Opened": "2015-08-03",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "398",
+    "Account_Balance": "47372.41",
+    "Branch_id": "241",
+    "Date_Opened": "2020-08-10",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "399",
+    "Account_Balance": "12902.64",
+    "Branch_id": "441",
+    "Date_Opened": "2011-12-21",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "400",
+    "Account_Balance": "34980.73",
+    "Branch_id": "201",
+    "Date_Opened": "2021-09-10",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "401",
+    "Account_Balance": "44120.19",
+    "Branch_id": "404",
+    "Date_Opened": "2006-07-02",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "402",
+    "Account_Balance": "3268.26",
+    "Branch_id": "250",
+    "Date_Opened": "2025-02-16",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "403",
+    "Account_Balance": "23062.08",
+    "Branch_id": "180",
+    "Date_Opened": "2015-01-26",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "404",
+    "Account_Balance": "17430.77",
+    "Branch_id": "145",
+    "Date_Opened": "2008-08-01",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "405",
+    "Account_Balance": "5146.61",
+    "Branch_id": "66",
+    "Date_Opened": "2014-05-31",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "406",
+    "Account_Balance": "32472.57",
+    "Branch_id": "167",
+    "Date_Opened": "2013-05-02",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "407",
+    "Account_Balance": "20040.82",
+    "Branch_id": "273",
+    "Date_Opened": "2015-06-20",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "408",
+    "Account_Balance": "12184.55",
+    "Branch_id": "123",
+    "Date_Opened": "2011-11-18",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "409",
+    "Account_Balance": "19190.82",
+    "Branch_id": "499",
+    "Date_Opened": "2014-12-27",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "410",
+    "Account_Balance": "34702.99",
+    "Branch_id": "107",
+    "Date_Opened": "2007-07-21",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "411",
+    "Account_Balance": "28360.56",
+    "Branch_id": "402",
+    "Date_Opened": "2016-01-16",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "412",
+    "Account_Balance": "11807.72",
+    "Branch_id": "279",
+    "Date_Opened": "2010-03-28",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "413",
+    "Account_Balance": "28709.41",
+    "Branch_id": "379",
+    "Date_Opened": "2009-11-03",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "414",
+    "Account_Balance": "29803.77",
+    "Branch_id": "59",
+    "Date_Opened": "2012-07-10",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "415",
+    "Account_Balance": "41101.15",
+    "Branch_id": "285",
+    "Date_Opened": "2023-08-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "416",
+    "Account_Balance": "3480.38",
+    "Branch_id": "158",
+    "Date_Opened": "2016-09-14",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "417",
+    "Account_Balance": "29820.27",
+    "Branch_id": "351",
+    "Date_Opened": "2007-07-20",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "418",
+    "Account_Balance": "32249.46",
+    "Branch_id": "168",
+    "Date_Opened": "2014-09-20",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "419",
+    "Account_Balance": "40851.68",
+    "Branch_id": "47",
+    "Date_Opened": "2020-12-04",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "420",
+    "Account_Balance": "31806.64",
+    "Branch_id": "463",
+    "Date_Opened": "2008-11-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "421",
+    "Account_Balance": "33044.07",
+    "Branch_id": "388",
+    "Date_Opened": "2022-07-08",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "422",
+    "Account_Balance": "19499.13",
+    "Branch_id": "273",
+    "Date_Opened": "2019-04-09",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "423",
+    "Account_Balance": "10283.08",
+    "Branch_id": "229",
+    "Date_Opened": "2021-06-02",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "424",
+    "Account_Balance": "39717.33",
+    "Branch_id": "154",
+    "Date_Opened": "2013-01-06",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "425",
+    "Account_Balance": "35889.56",
+    "Branch_id": "471",
+    "Date_Opened": "2016-01-21",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "426",
+    "Account_Balance": "2623.62",
+    "Branch_id": "46",
+    "Date_Opened": "2012-09-26",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "427",
+    "Account_Balance": "6377.78",
+    "Branch_id": "207",
+    "Date_Opened": "2006-10-18",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "428",
+    "Account_Balance": "45053.78",
+    "Branch_id": "32",
+    "Date_Opened": "2017-07-11",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "429",
+    "Account_Balance": "28001.51",
+    "Branch_id": "1",
+    "Date_Opened": "2010-01-12",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "430",
+    "Account_Balance": "14110.46",
+    "Branch_id": "57",
+    "Date_Opened": "2006-06-28",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "431",
+    "Account_Balance": "35111.09",
+    "Branch_id": "121",
+    "Date_Opened": "2016-02-15",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "432",
+    "Account_Balance": "35588.68",
+    "Branch_id": "321",
+    "Date_Opened": "2018-09-02",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "433",
+    "Account_Balance": "27255.94",
+    "Branch_id": "196",
+    "Date_Opened": "2016-01-17",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "434",
+    "Account_Balance": "9411.34",
+    "Branch_id": "244",
+    "Date_Opened": "2022-09-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "435",
+    "Account_Balance": "41998.13",
+    "Branch_id": "432",
+    "Date_Opened": "2017-09-22",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "436",
+    "Account_Balance": "33503.30",
+    "Branch_id": "148",
+    "Date_Opened": "2006-03-26",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "437",
+    "Account_Balance": "32419.46",
+    "Branch_id": "6",
+    "Date_Opened": "2024-03-13",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "438",
+    "Account_Balance": "24335.07",
+    "Branch_id": "370",
+    "Date_Opened": "2005-12-16",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "439",
+    "Account_Balance": "4233.17",
+    "Branch_id": "500",
+    "Date_Opened": "2022-10-05",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "440",
+    "Account_Balance": "44679.12",
+    "Branch_id": "441",
+    "Date_Opened": "2015-07-31",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "441",
+    "Account_Balance": "31162.42",
+    "Branch_id": "477",
+    "Date_Opened": "2016-04-04",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "442",
+    "Account_Balance": "27602.50",
+    "Branch_id": "261",
+    "Date_Opened": "2016-04-17",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "443",
+    "Account_Balance": "11287.05",
+    "Branch_id": "197",
+    "Date_Opened": "2017-11-02",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "444",
+    "Account_Balance": "28896.93",
+    "Branch_id": "310",
+    "Date_Opened": "2025-08-22",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "445",
+    "Account_Balance": "13462.52",
+    "Branch_id": "365",
+    "Date_Opened": "2014-07-21",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "446",
+    "Account_Balance": "1673.09",
+    "Branch_id": "296",
+    "Date_Opened": "2017-07-29",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "447",
+    "Account_Balance": "35244.13",
+    "Branch_id": "291",
+    "Date_Opened": "2014-12-20",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "448",
+    "Account_Balance": "48086.89",
+    "Branch_id": "298",
+    "Date_Opened": "2015-01-03",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "449",
+    "Account_Balance": "36564.66",
+    "Branch_id": "73",
+    "Date_Opened": "2009-06-06",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "450",
+    "Account_Balance": "3911.73",
+    "Branch_id": "239",
+    "Date_Opened": "2014-03-19",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "451",
+    "Account_Balance": "23622.58",
+    "Branch_id": "46",
+    "Date_Opened": "2020-04-22",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "452",
+    "Account_Balance": "26959.86",
+    "Branch_id": "351",
+    "Date_Opened": "2011-08-05",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "453",
+    "Account_Balance": "2638.71",
+    "Branch_id": "160",
+    "Date_Opened": "2012-01-21",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "454",
+    "Account_Balance": "3134.56",
+    "Branch_id": "274",
+    "Date_Opened": "2008-05-06",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "455",
+    "Account_Balance": "28698.27",
+    "Branch_id": "263",
+    "Date_Opened": "2015-04-14",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "456",
+    "Account_Balance": "48029.07",
+    "Branch_id": "216",
+    "Date_Opened": "2017-11-21",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "457",
+    "Account_Balance": "2792.90",
+    "Branch_id": "149",
+    "Date_Opened": "2022-01-18",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "458",
+    "Account_Balance": "36348.59",
+    "Branch_id": "384",
+    "Date_Opened": "2018-12-27",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "459",
+    "Account_Balance": "31465.00",
+    "Branch_id": "134",
+    "Date_Opened": "2024-06-05",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "460",
+    "Account_Balance": "2580.99",
+    "Branch_id": "87",
+    "Date_Opened": "2012-12-16",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "461",
+    "Account_Balance": "31215.85",
+    "Branch_id": "415",
+    "Date_Opened": "2009-04-08",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "462",
+    "Account_Balance": "6341.07",
+    "Branch_id": "249",
+    "Date_Opened": "2023-12-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "463",
+    "Account_Balance": "13892.44",
+    "Branch_id": "436",
+    "Date_Opened": "2008-03-24",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "464",
+    "Account_Balance": "13760.86",
+    "Branch_id": "316",
+    "Date_Opened": "2019-07-04",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "465",
+    "Account_Balance": "5577.47",
+    "Branch_id": "8",
+    "Date_Opened": "2009-03-06",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "466",
+    "Account_Balance": "36948.36",
+    "Branch_id": "466",
+    "Date_Opened": "2012-07-14",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "467",
+    "Account_Balance": "8769.97",
+    "Branch_id": "190",
+    "Date_Opened": "2007-09-09",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "468",
+    "Account_Balance": "39968.60",
+    "Branch_id": "249",
+    "Date_Opened": "2021-10-01",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "469",
+    "Account_Balance": "48367.28",
+    "Branch_id": "176",
+    "Date_Opened": "2023-11-30",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "470",
+    "Account_Balance": "7707.51",
+    "Branch_id": "479",
+    "Date_Opened": "2007-05-18",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "471",
+    "Account_Balance": "38518.39",
+    "Branch_id": "386",
+    "Date_Opened": "2016-07-18",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "472",
+    "Account_Balance": "36299.95",
+    "Branch_id": "339",
+    "Date_Opened": "2015-12-08",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "473",
+    "Account_Balance": "36718.06",
+    "Branch_id": "108",
+    "Date_Opened": "2012-11-06",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "474",
+    "Account_Balance": "13219.77",
+    "Branch_id": "28",
+    "Date_Opened": "2011-05-27",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "475",
+    "Account_Balance": "23200.75",
+    "Branch_id": "27",
+    "Date_Opened": "2022-01-18",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "476",
+    "Account_Balance": "37307.53",
+    "Branch_id": "155",
+    "Date_Opened": "2015-02-15",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "477",
+    "Account_Balance": "34175.50",
+    "Branch_id": "120",
+    "Date_Opened": "2017-04-15",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "478",
+    "Account_Balance": "7257.49",
+    "Branch_id": "243",
+    "Date_Opened": "2019-12-01",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "479",
+    "Account_Balance": "46361.13",
+    "Branch_id": "7",
+    "Date_Opened": "2019-05-01",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "480",
+    "Account_Balance": "15784.43",
+    "Branch_id": "196",
+    "Date_Opened": "2010-08-03",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "481",
+    "Account_Balance": "4868.22",
+    "Branch_id": "350",
+    "Date_Opened": "2024-11-19",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "482",
+    "Account_Balance": "47809.18",
+    "Branch_id": "327",
+    "Date_Opened": "2017-11-14",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "483",
+    "Account_Balance": "42917.78",
+    "Branch_id": "313",
+    "Date_Opened": "2011-03-08",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "484",
+    "Account_Balance": "40115.82",
+    "Branch_id": "139",
+    "Date_Opened": "2019-10-26",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "485",
+    "Account_Balance": "19557.69",
+    "Branch_id": "336",
+    "Date_Opened": "2012-09-14",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "486",
+    "Account_Balance": "29436.21",
+    "Branch_id": "376",
+    "Date_Opened": "2010-09-26",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "487",
+    "Account_Balance": "33885.91",
+    "Branch_id": "267",
+    "Date_Opened": "2018-03-28",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "488",
+    "Account_Balance": "528.90",
+    "Branch_id": "161",
+    "Date_Opened": "2013-07-10",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "489",
+    "Account_Balance": "1384.80",
+    "Branch_id": "426",
+    "Date_Opened": "2024-04-13",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "490",
+    "Account_Balance": "34274.98",
+    "Branch_id": "269",
+    "Date_Opened": "2023-06-23",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "491",
+    "Account_Balance": "14164.85",
+    "Branch_id": "113",
+    "Date_Opened": "2009-07-16",
+    "Account_Type": "Money Market"
+  },
+  {
+    "Account_id": "492",
+    "Account_Balance": "30969.86",
+    "Branch_id": "18",
+    "Date_Opened": "2025-04-10",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "493",
+    "Account_Balance": "32830.28",
+    "Branch_id": "481",
+    "Date_Opened": "2012-06-24",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "494",
+    "Account_Balance": "31904.14",
+    "Branch_id": "487",
+    "Date_Opened": "2012-05-12",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "495",
+    "Account_Balance": "30234.29",
+    "Branch_id": "45",
+    "Date_Opened": "2006-08-07",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "496",
+    "Account_Balance": "44994.86",
+    "Branch_id": "337",
+    "Date_Opened": "2008-09-03",
+    "Account_Type": "Savings"
+  },
+  {
+    "Account_id": "497",
+    "Account_Balance": "44800.08",
+    "Branch_id": "412",
+    "Date_Opened": "2021-08-30",
+    "Account_Type": "Student"
+  },
+  {
+    "Account_id": "498",
+    "Account_Balance": "23347.78",
+    "Branch_id": "130",
+    "Date_Opened": "2019-03-14",
+    "Account_Type": "Checking"
+  },
+  {
+    "Account_id": "499",
+    "Account_Balance": "46134.77",
+    "Branch_id": "328",
+    "Date_Opened": "2015-08-21",
+    "Account_Type": "Business"
+  },
+  {
+    "Account_id": "500",
+    "Account_Balance": "34611.07",
+    "Branch_id": "394",
+    "Date_Opened": "2016-03-25",
+    "Account_Type": "Money Market"
+  }
+]

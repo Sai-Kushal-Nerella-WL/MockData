@@ -1,0 +1,184 @@
+CREATE DATABASE IF NOT EXISTS citi_db;
+
+USE citi_db;
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+-- Drop tables in correct order (child tables first)
+DROP TABLE IF EXISTS cc_transactions;
+DROP TABLE IF EXISTS credit_cards;
+DROP TABLE IF EXISTS banking_transactions;
+DROP TABLE IF EXISTS loan;
+DROP TABLE IF EXISTS account_customers;
+DROP TABLE IF EXISTS accounts;
+DROP TABLE IF EXISTS branch_employees;
+DROP TABLE IF EXISTS employees;
+DROP TABLE IF EXISTS branches;
+DROP TABLE IF EXISTS account_type;
+DROP TABLE IF EXISTS customers;
+
+-- 1) customers
+CREATE TABLE customers (
+  Customer_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+  First_Name varchar(45) NOT NULL,
+  Last_Name varchar(45) NOT NULL,
+  Date_of_Birth date NOT NULL,
+  Street_Address varchar(50) NOT NULL,
+  City varchar(25) NOT NULL,
+  State char(2) NOT NULL,
+  Zipcode int(11) NOT NULL,
+  Email varchar(45) NOT NULL,
+  Sex char(1) NOT NULL,
+  PRIMARY KEY (Customer_id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 2) account_type
+CREATE TABLE account_type (
+  Account_Type varchar(20) NOT NULL,
+  Minimum_Balance_Restriction decimal(10,2) NOT NULL,
+  PRIMARY KEY (Account_Type)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 3) branches
+CREATE TABLE branches (
+  Branch_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+  Branch_Name varchar(45) NOT NULL,
+  Street_Address varchar(50) NOT NULL,
+  City varchar(25) NOT NULL,
+  State char(2) NOT NULL,
+  Zipcode int(11) NOT NULL,
+  Phone_Number varchar(12) NOT NULL,
+  PRIMARY KEY (Branch_id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 4) employees
+CREATE TABLE employees (
+  Employee_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+  First_Name varchar(45) NOT NULL,
+  Last_Name varchar(45) NOT NULL,
+  Supervisor_id int(10) unsigned DEFAULT NULL,
+  Level_of_Access varchar(15) NOT NULL,
+  Date_of_Birth date NOT NULL,
+  Street_Address varchar(50) NOT NULL,
+  City varchar(25) NOT NULL,
+  State char(2) NOT NULL,
+  Zipcode int(11) NOT NULL,
+  Sex char(1) NOT NULL,
+  PRIMARY KEY (Employee_id),
+  KEY fk_Employees_Employees1_idx (Supervisor_id),
+  CONSTRAINT fk_Employees_Employees1
+    FOREIGN KEY (Supervisor_id) REFERENCES employees (Employee_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 5) accounts
+CREATE TABLE accounts (
+  Account_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+  Account_Balance decimal(10,2) NOT NULL,
+  Branch_id int(10) unsigned NOT NULL,
+  Date_Opened date NOT NULL,
+  Account_Type varchar(20) NOT NULL,
+  PRIMARY KEY (Account_id),
+  KEY fk_Accounts_Bank_details1_idx (Branch_id),
+  KEY fk_Accounts_account_type1_idx (Account_Type),
+  CONSTRAINT fk_Accounts_Bank_details1
+    FOREIGN KEY (Branch_id) REFERENCES branches (Branch_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT fk_Accounts_account_type1
+    FOREIGN KEY (Account_Type) REFERENCES account_type (Account_Type)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 6) account_customers
+CREATE TABLE account_customers (
+  Account_id int(10) unsigned NOT NULL,
+  Customer_id int(10) unsigned NOT NULL,
+  PRIMARY KEY (Customer_id, Account_id),
+  KEY fk_Accounts_has_Customer_Accounts1_idx (Account_id),
+  KEY fk_Accounts_has_Customer_Customer1_idx (Customer_id),
+  CONSTRAINT fk_Accounts_has_Customer_Accounts1
+    FOREIGN KEY (Account_id) REFERENCES accounts (Account_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT fk_Accounts_has_Customer_Customer1
+    FOREIGN KEY (Customer_id) REFERENCES customers (Customer_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 7) banking_transactions
+CREATE TABLE banking_transactions (
+  Transaction_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+  Transaction_Type varchar(45) NOT NULL,
+  Description varchar(45) DEFAULT NULL,
+  Amount decimal(10,2) NOT NULL,
+  Transaction_Date date NOT NULL,  -- Changed from 'Date' to avoid reserved word
+  Customer_id int(10) unsigned NOT NULL,
+  PRIMARY KEY (Transaction_id),
+  KEY fk_Netbanking_transactions_Customer1_idx (Customer_id),
+  CONSTRAINT fk_Netbanking_transactions_Customer1
+    FOREIGN KEY (Customer_id) REFERENCES customers (Customer_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 8) credit_cards
+CREATE TABLE credit_cards (
+  CC_number varchar(20) NOT NULL,
+  Maximum_Limit decimal(10,2) NOT NULL,
+  Expiry_Date date NOT NULL,
+  Credit_Score int(11) NOT NULL,
+  Customer_id int(10) unsigned NOT NULL,
+  PRIMARY KEY (CC_number),
+  KEY fk_Credit_card_details_Customer1_idx (Customer_id),
+  CONSTRAINT fk_Credit_card_details_Customer1
+    FOREIGN KEY (Customer_id) REFERENCES customers (Customer_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 9) cc_transactions
+CREATE TABLE cc_transactions (
+  Transaction_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+  CC_Number varchar(20) NOT NULL,
+  Transaction_Date date NOT NULL,
+  Amount decimal(10,2) NOT NULL,
+  Merchant_Details varchar(45) NOT NULL,
+  PRIMARY KEY (Transaction_id),
+  KEY fk_CC_transaction_details_Credit_card_details1_idx (CC_Number),
+  CONSTRAINT fk_CC_transaction_details_Credit_card_details1
+    FOREIGN KEY (CC_Number) REFERENCES credit_cards (CC_number)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 10) loan
+CREATE TABLE loan (
+  Loan_id int(11) NOT NULL AUTO_INCREMENT,
+  Duration_in_Years decimal(4,2) NOT NULL,
+  Loan_Start_Date date NOT NULL,
+  Interest_Rate decimal(4,2) NOT NULL,
+  Loan_Amount_Taken decimal(10,2) NOT NULL,
+  Loan_Amount_Repaid decimal(10,2) NOT NULL DEFAULT '0.00',
+  Loan_Type varchar(45) NOT NULL,
+  Customer_id int(10) unsigned NOT NULL,
+  PRIMARY KEY (Loan_id),
+  KEY fk_Loan_Customer1_idx (Customer_id),
+  CONSTRAINT fk_Loan_Customer1
+    FOREIGN KEY (Customer_id) REFERENCES customers (Customer_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- 11) branch_employees
+CREATE TABLE branch_employees (
+  Branch_id int(10) unsigned NOT NULL,
+  Employee_id int(10) unsigned NOT NULL,
+  Start_Date date NOT NULL,
+  End_Date date DEFAULT NULL,
+  PRIMARY KEY (Employee_id, Branch_id),
+  KEY fk_Bank_details_has_Bank_employee_details_Bank_employee_det_idx (Employee_id),
+  KEY fk_Bank_details_has_Bank_employee_details_Bank_details_idx (Branch_id),
+  CONSTRAINT fk_Bank_details_has_Bank_employee_details_Bank_details
+    FOREIGN KEY (Branch_id) REFERENCES branches (Branch_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT fk_Bank_details_has_Bank_employee_details_Bank_employee_detai1
+    FOREIGN KEY (Employee_id) REFERENCES employees (Employee_id)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+SET FOREIGN_KEY_CHECKS = 1;

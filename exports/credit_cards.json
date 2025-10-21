@@ -1,0 +1,2242 @@
+[
+  {
+    "CC_number": "0089677997815437",
+    "Maximum_Limit": "16563.57",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "376",
+    "Customer_id": "292"
+  },
+  {
+    "CC_number": "0109852722715215",
+    "Maximum_Limit": "6563.86",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "525",
+    "Customer_id": "120"
+  },
+  {
+    "CC_number": "0115896366912021",
+    "Maximum_Limit": "8670.60",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "337",
+    "Customer_id": "319"
+  },
+  {
+    "CC_number": "0128433528510554",
+    "Maximum_Limit": "1440.78",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "714",
+    "Customer_id": "108"
+  },
+  {
+    "CC_number": "0183063641706611",
+    "Maximum_Limit": "5314.18",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "717",
+    "Customer_id": "432"
+  },
+  {
+    "CC_number": "0231296139290210",
+    "Maximum_Limit": "15660.20",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "639",
+    "Customer_id": "96"
+  },
+  {
+    "CC_number": "0250283120130898",
+    "Maximum_Limit": "7537.00",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "416",
+    "Customer_id": "145"
+  },
+  {
+    "CC_number": "0297450417186111",
+    "Maximum_Limit": "4324.80",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "590",
+    "Customer_id": "353"
+  },
+  {
+    "CC_number": "0314945280365176",
+    "Maximum_Limit": "4053.85",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "707",
+    "Customer_id": "364"
+  },
+  {
+    "CC_number": "0316092468734296",
+    "Maximum_Limit": "9900.03",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "321",
+    "Customer_id": "222"
+  },
+  {
+    "CC_number": "0326581366604218",
+    "Maximum_Limit": "1427.02",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "786",
+    "Customer_id": "27"
+  },
+  {
+    "CC_number": "0351084285182038",
+    "Maximum_Limit": "12155.02",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "480",
+    "Customer_id": "320"
+  },
+  {
+    "CC_number": "0378502639446331",
+    "Maximum_Limit": "4535.22",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "810",
+    "Customer_id": "476"
+  },
+  {
+    "CC_number": "0448157403186784",
+    "Maximum_Limit": "5314.57",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "319",
+    "Customer_id": "126"
+  },
+  {
+    "CC_number": "0489326094149245",
+    "Maximum_Limit": "8046.53",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "752",
+    "Customer_id": "325"
+  },
+  {
+    "CC_number": "0518559076116367",
+    "Maximum_Limit": "9741.29",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "778",
+    "Customer_id": "229"
+  },
+  {
+    "CC_number": "0536535673455542",
+    "Maximum_Limit": "1434.23",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "317",
+    "Customer_id": "282"
+  },
+  {
+    "CC_number": "0568931011323002",
+    "Maximum_Limit": "15665.97",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "407",
+    "Customer_id": "155"
+  },
+  {
+    "CC_number": "0580211622065722",
+    "Maximum_Limit": "3517.78",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "679",
+    "Customer_id": "460"
+  },
+  {
+    "CC_number": "0632284348137302",
+    "Maximum_Limit": "1258.58",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "375",
+    "Customer_id": "226"
+  },
+  {
+    "CC_number": "0642353924511845",
+    "Maximum_Limit": "11427.06",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "346",
+    "Customer_id": "316"
+  },
+  {
+    "CC_number": "0660631725805828",
+    "Maximum_Limit": "2220.41",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "481",
+    "Customer_id": "7"
+  },
+  {
+    "CC_number": "0700668251378604",
+    "Maximum_Limit": "12706.39",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "447",
+    "Customer_id": "74"
+  },
+  {
+    "CC_number": "0704468789134847",
+    "Maximum_Limit": "15552.90",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "402",
+    "Customer_id": "290"
+  },
+  {
+    "CC_number": "0715967987972434",
+    "Maximum_Limit": "12137.76",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "835",
+    "Customer_id": "247"
+  },
+  {
+    "CC_number": "0755525578389169",
+    "Maximum_Limit": "7382.52",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "366",
+    "Customer_id": "418"
+  },
+  {
+    "CC_number": "0764313767073504",
+    "Maximum_Limit": "19952.52",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "532",
+    "Customer_id": "374"
+  },
+  {
+    "CC_number": "0764546913542951",
+    "Maximum_Limit": "1070.18",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "432",
+    "Customer_id": "267"
+  },
+  {
+    "CC_number": "0791230913881469",
+    "Maximum_Limit": "16316.36",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "413",
+    "Customer_id": "450"
+  },
+  {
+    "CC_number": "0791487351085933",
+    "Maximum_Limit": "16227.22",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "845",
+    "Customer_id": "428"
+  },
+  {
+    "CC_number": "0822089272188073",
+    "Maximum_Limit": "13509.83",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "369",
+    "Customer_id": "41"
+  },
+  {
+    "CC_number": "0826140616797111",
+    "Maximum_Limit": "4243.98",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "396",
+    "Customer_id": "499"
+  },
+  {
+    "CC_number": "0843418005445751",
+    "Maximum_Limit": "14906.39",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "512",
+    "Customer_id": "332"
+  },
+  {
+    "CC_number": "0885789788929809",
+    "Maximum_Limit": "13936.73",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "550",
+    "Customer_id": "421"
+  },
+  {
+    "CC_number": "0971051608255589",
+    "Maximum_Limit": "2246.21",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "711",
+    "Customer_id": "194"
+  },
+  {
+    "CC_number": "1000266438799362",
+    "Maximum_Limit": "1641.36",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "372",
+    "Customer_id": "205"
+  },
+  {
+    "CC_number": "1030600401258065",
+    "Maximum_Limit": "12526.47",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "484",
+    "Customer_id": "475"
+  },
+  {
+    "CC_number": "1043606494347679",
+    "Maximum_Limit": "6517.21",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "617",
+    "Customer_id": "210"
+  },
+  {
+    "CC_number": "1074198796428429",
+    "Maximum_Limit": "14960.76",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "325",
+    "Customer_id": "436"
+  },
+  {
+    "CC_number": "1123056908824545",
+    "Maximum_Limit": "5434.24",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "781",
+    "Customer_id": "260"
+  },
+  {
+    "CC_number": "1129282933934455",
+    "Maximum_Limit": "12184.93",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "468",
+    "Customer_id": "383"
+  },
+  {
+    "CC_number": "1142917860215290",
+    "Maximum_Limit": "12720.10",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "479",
+    "Customer_id": "241"
+  },
+  {
+    "CC_number": "1180928640546321",
+    "Maximum_Limit": "14016.66",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "356",
+    "Customer_id": "165"
+  },
+  {
+    "CC_number": "1280333818813412",
+    "Maximum_Limit": "11784.62",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "690",
+    "Customer_id": "308"
+  },
+  {
+    "CC_number": "1284165155683179",
+    "Maximum_Limit": "3573.21",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "637",
+    "Customer_id": "206"
+  },
+  {
+    "CC_number": "1325350327263995",
+    "Maximum_Limit": "7067.04",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "426",
+    "Customer_id": "236"
+  },
+  {
+    "CC_number": "1393309602794830",
+    "Maximum_Limit": "11004.63",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "363",
+    "Customer_id": "235"
+  },
+  {
+    "CC_number": "1401635283806224",
+    "Maximum_Limit": "2021.86",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "548",
+    "Customer_id": "97"
+  },
+  {
+    "CC_number": "1445606160381566",
+    "Maximum_Limit": "14568.39",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "300",
+    "Customer_id": "426"
+  },
+  {
+    "CC_number": "1454234383034007",
+    "Maximum_Limit": "17854.89",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "739",
+    "Customer_id": "228"
+  },
+  {
+    "CC_number": "1458944148619879",
+    "Maximum_Limit": "4956.67",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "710",
+    "Customer_id": "131"
+  },
+  {
+    "CC_number": "1481770454879815",
+    "Maximum_Limit": "17901.17",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "694",
+    "Customer_id": "18"
+  },
+  {
+    "CC_number": "1519504600237904",
+    "Maximum_Limit": "12691.38",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "494",
+    "Customer_id": "78"
+  },
+  {
+    "CC_number": "1542271243185470",
+    "Maximum_Limit": "7819.77",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "848",
+    "Customer_id": "173"
+  },
+  {
+    "CC_number": "1546409563524223",
+    "Maximum_Limit": "5081.65",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "604",
+    "Customer_id": "45"
+  },
+  {
+    "CC_number": "1561976630851575",
+    "Maximum_Limit": "8352.36",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "823",
+    "Customer_id": "284"
+  },
+  {
+    "CC_number": "1702196306050827",
+    "Maximum_Limit": "5462.56",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "644",
+    "Customer_id": "456"
+  },
+  {
+    "CC_number": "1731606328141500",
+    "Maximum_Limit": "9529.28",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "731",
+    "Customer_id": "233"
+  },
+  {
+    "CC_number": "1749109022005227",
+    "Maximum_Limit": "8662.82",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "413",
+    "Customer_id": "88"
+  },
+  {
+    "CC_number": "1801346241361910",
+    "Maximum_Limit": "12296.58",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "700",
+    "Customer_id": "76"
+  },
+  {
+    "CC_number": "1813132301311542",
+    "Maximum_Limit": "9641.61",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "450",
+    "Customer_id": "224"
+  },
+  {
+    "CC_number": "1878750596557918",
+    "Maximum_Limit": "3674.03",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "654",
+    "Customer_id": "95"
+  },
+  {
+    "CC_number": "1894022098727911",
+    "Maximum_Limit": "13310.97",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "447",
+    "Customer_id": "81"
+  },
+  {
+    "CC_number": "1956788396015535",
+    "Maximum_Limit": "13190.13",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "582",
+    "Customer_id": "195"
+  },
+  {
+    "CC_number": "1977916403209076",
+    "Maximum_Limit": "12001.18",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "762",
+    "Customer_id": "482"
+  },
+  {
+    "CC_number": "2049647521544967",
+    "Maximum_Limit": "3798.74",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "539",
+    "Customer_id": "296"
+  },
+  {
+    "CC_number": "2076269940451907",
+    "Maximum_Limit": "10118.46",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "501",
+    "Customer_id": "47"
+  },
+  {
+    "CC_number": "2105931005122326",
+    "Maximum_Limit": "2610.30",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "302",
+    "Customer_id": "373"
+  },
+  {
+    "CC_number": "2125811759566932",
+    "Maximum_Limit": "18722.93",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "557",
+    "Customer_id": "253"
+  },
+  {
+    "CC_number": "2226658063308613",
+    "Maximum_Limit": "18381.94",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "631",
+    "Customer_id": "242"
+  },
+  {
+    "CC_number": "2297279675458883",
+    "Maximum_Limit": "14489.60",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "832",
+    "Customer_id": "51"
+  },
+  {
+    "CC_number": "2304795399281623",
+    "Maximum_Limit": "16083.47",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "649",
+    "Customer_id": "49"
+  },
+  {
+    "CC_number": "2311952007548281",
+    "Maximum_Limit": "3193.76",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "655",
+    "Customer_id": "354"
+  },
+  {
+    "CC_number": "2335023562644300",
+    "Maximum_Limit": "13144.07",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "712",
+    "Customer_id": "396"
+  },
+  {
+    "CC_number": "2398905818799709",
+    "Maximum_Limit": "17919.19",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "707",
+    "Customer_id": "138"
+  },
+  {
+    "CC_number": "2407469910281404",
+    "Maximum_Limit": "15002.56",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "506",
+    "Customer_id": "86"
+  },
+  {
+    "CC_number": "2439927873736320",
+    "Maximum_Limit": "12915.12",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "417",
+    "Customer_id": "299"
+  },
+  {
+    "CC_number": "2443195003516037",
+    "Maximum_Limit": "3995.69",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "592",
+    "Customer_id": "5"
+  },
+  {
+    "CC_number": "2487249500666315",
+    "Maximum_Limit": "16292.26",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "318",
+    "Customer_id": "93"
+  },
+  {
+    "CC_number": "2511071231310553",
+    "Maximum_Limit": "5484.87",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "501",
+    "Customer_id": "472"
+  },
+  {
+    "CC_number": "2571797538741621",
+    "Maximum_Limit": "13189.50",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "623",
+    "Customer_id": "82"
+  },
+  {
+    "CC_number": "2605593177047790",
+    "Maximum_Limit": "19100.68",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "804",
+    "Customer_id": "24"
+  },
+  {
+    "CC_number": "2676599843942688",
+    "Maximum_Limit": "5548.77",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "490",
+    "Customer_id": "63"
+  },
+  {
+    "CC_number": "2677458560932571",
+    "Maximum_Limit": "9327.22",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "601",
+    "Customer_id": "36"
+  },
+  {
+    "CC_number": "2704771406473141",
+    "Maximum_Limit": "11814.32",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "740",
+    "Customer_id": "245"
+  },
+  {
+    "CC_number": "2745530800324401",
+    "Maximum_Limit": "14268.94",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "814",
+    "Customer_id": "315"
+  },
+  {
+    "CC_number": "2756082443264435",
+    "Maximum_Limit": "2470.48",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "340",
+    "Customer_id": "279"
+  },
+  {
+    "CC_number": "2803324039625784",
+    "Maximum_Limit": "3817.13",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "397",
+    "Customer_id": "94"
+  },
+  {
+    "CC_number": "2815061572690353",
+    "Maximum_Limit": "17827.09",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "574",
+    "Customer_id": "174"
+  },
+  {
+    "CC_number": "2817231915736334",
+    "Maximum_Limit": "8569.80",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "320",
+    "Customer_id": "118"
+  },
+  {
+    "CC_number": "2871586898888917",
+    "Maximum_Limit": "4461.75",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "715",
+    "Customer_id": "494"
+  },
+  {
+    "CC_number": "2888380481498418",
+    "Maximum_Limit": "8873.94",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "612",
+    "Customer_id": "486"
+  },
+  {
+    "CC_number": "2907513294139871",
+    "Maximum_Limit": "1265.79",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "476",
+    "Customer_id": "75"
+  },
+  {
+    "CC_number": "2920546342313743",
+    "Maximum_Limit": "2425.98",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "672",
+    "Customer_id": "348"
+  },
+  {
+    "CC_number": "2952744507195476",
+    "Maximum_Limit": "14248.93",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "308",
+    "Customer_id": "391"
+  },
+  {
+    "CC_number": "2964932467866161",
+    "Maximum_Limit": "9432.07",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "596",
+    "Customer_id": "225"
+  },
+  {
+    "CC_number": "3027362595462203",
+    "Maximum_Limit": "16739.35",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "346",
+    "Customer_id": "265"
+  },
+  {
+    "CC_number": "3058745793842016",
+    "Maximum_Limit": "7111.71",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "359",
+    "Customer_id": "134"
+  },
+  {
+    "CC_number": "3068641693264372",
+    "Maximum_Limit": "11977.27",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "403",
+    "Customer_id": "330"
+  },
+  {
+    "CC_number": "3083601046822823",
+    "Maximum_Limit": "19655.26",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "514",
+    "Customer_id": "291"
+  },
+  {
+    "CC_number": "3091803904590528",
+    "Maximum_Limit": "7812.82",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "526",
+    "Customer_id": "32"
+  },
+  {
+    "CC_number": "3098910760337314",
+    "Maximum_Limit": "16067.31",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "677",
+    "Customer_id": "382"
+  },
+  {
+    "CC_number": "3148008019377796",
+    "Maximum_Limit": "8681.32",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "536",
+    "Customer_id": "121"
+  },
+  {
+    "CC_number": "3218420908764666",
+    "Maximum_Limit": "4879.91",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "746",
+    "Customer_id": "397"
+  },
+  {
+    "CC_number": "3235075252438672",
+    "Maximum_Limit": "9656.60",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "568",
+    "Customer_id": "175"
+  },
+  {
+    "CC_number": "3264737509070381",
+    "Maximum_Limit": "1169.35",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "333",
+    "Customer_id": "412"
+  },
+  {
+    "CC_number": "3283893108602070",
+    "Maximum_Limit": "5172.51",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "505",
+    "Customer_id": "164"
+  },
+  {
+    "CC_number": "3318071994648579",
+    "Maximum_Limit": "13118.31",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "708",
+    "Customer_id": "10"
+  },
+  {
+    "CC_number": "3385176200861560",
+    "Maximum_Limit": "13664.25",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "317",
+    "Customer_id": "416"
+  },
+  {
+    "CC_number": "3513959255762018",
+    "Maximum_Limit": "13887.60",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "777",
+    "Customer_id": "191"
+  },
+  {
+    "CC_number": "3522434582252401",
+    "Maximum_Limit": "6390.07",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "783",
+    "Customer_id": "413"
+  },
+  {
+    "CC_number": "3529987724853507",
+    "Maximum_Limit": "13125.71",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "840",
+    "Customer_id": "53"
+  },
+  {
+    "CC_number": "3560049180536683",
+    "Maximum_Limit": "6511.06",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "672",
+    "Customer_id": "179"
+  },
+  {
+    "CC_number": "3577183373182339",
+    "Maximum_Limit": "8084.12",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "655",
+    "Customer_id": "297"
+  },
+  {
+    "CC_number": "3582368711594905",
+    "Maximum_Limit": "16545.50",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "848",
+    "Customer_id": "402"
+  },
+  {
+    "CC_number": "3606600723212113",
+    "Maximum_Limit": "19484.29",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "462",
+    "Customer_id": "321"
+  },
+  {
+    "CC_number": "3715702815418324",
+    "Maximum_Limit": "11905.39",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "635",
+    "Customer_id": "57"
+  },
+  {
+    "CC_number": "3741751874176950",
+    "Maximum_Limit": "15424.25",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "546",
+    "Customer_id": "358"
+  },
+  {
+    "CC_number": "3749380217913000",
+    "Maximum_Limit": "14479.32",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "413",
+    "Customer_id": "365"
+  },
+  {
+    "CC_number": "3810590639637916",
+    "Maximum_Limit": "3260.44",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "349",
+    "Customer_id": "347"
+  },
+  {
+    "CC_number": "3827203674349065",
+    "Maximum_Limit": "12392.09",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "551",
+    "Customer_id": "62"
+  },
+  {
+    "CC_number": "3874114322413213",
+    "Maximum_Limit": "8160.80",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "566",
+    "Customer_id": "2"
+  },
+  {
+    "CC_number": "3894053652268616",
+    "Maximum_Limit": "6636.52",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "343",
+    "Customer_id": "6"
+  },
+  {
+    "CC_number": "3910160901533814",
+    "Maximum_Limit": "6031.64",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "529",
+    "Customer_id": "446"
+  },
+  {
+    "CC_number": "3947915484572144",
+    "Maximum_Limit": "1792.00",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "328",
+    "Customer_id": "398"
+  },
+  {
+    "CC_number": "4037785916746017",
+    "Maximum_Limit": "6327.54",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "843",
+    "Customer_id": "458"
+  },
+  {
+    "CC_number": "4070101459064431",
+    "Maximum_Limit": "4770.03",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "426",
+    "Customer_id": "378"
+  },
+  {
+    "CC_number": "4077191794316253",
+    "Maximum_Limit": "10457.41",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "745",
+    "Customer_id": "98"
+  },
+  {
+    "CC_number": "4096783174155821",
+    "Maximum_Limit": "2079.55",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "731",
+    "Customer_id": "196"
+  },
+  {
+    "CC_number": "4115305864108397",
+    "Maximum_Limit": "15126.15",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "807",
+    "Customer_id": "80"
+  },
+  {
+    "CC_number": "4121674101302657",
+    "Maximum_Limit": "3142.59",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "823",
+    "Customer_id": "13"
+  },
+  {
+    "CC_number": "4127730341444121",
+    "Maximum_Limit": "19677.74",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "720",
+    "Customer_id": "166"
+  },
+  {
+    "CC_number": "4185780726796937",
+    "Maximum_Limit": "17829.18",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "806",
+    "Customer_id": "478"
+  },
+  {
+    "CC_number": "4191632664044356",
+    "Maximum_Limit": "7187.93",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "528",
+    "Customer_id": "39"
+  },
+  {
+    "CC_number": "4327267246620717",
+    "Maximum_Limit": "11292.37",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "345",
+    "Customer_id": "471"
+  },
+  {
+    "CC_number": "4335468824463258",
+    "Maximum_Limit": "19328.84",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "676",
+    "Customer_id": "176"
+  },
+  {
+    "CC_number": "4398064569807224",
+    "Maximum_Limit": "14281.96",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "561",
+    "Customer_id": "300"
+  },
+  {
+    "CC_number": "4409571469970196",
+    "Maximum_Limit": "19415.64",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "693",
+    "Customer_id": "302"
+  },
+  {
+    "CC_number": "4463701215826236",
+    "Maximum_Limit": "15174.68",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "386",
+    "Customer_id": "204"
+  },
+  {
+    "CC_number": "4552972950788027",
+    "Maximum_Limit": "13574.94",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "726",
+    "Customer_id": "251"
+  },
+  {
+    "CC_number": "4556330640690204",
+    "Maximum_Limit": "18135.66",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "652",
+    "Customer_id": "452"
+  },
+  {
+    "CC_number": "4589924161690114",
+    "Maximum_Limit": "16722.97",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "336",
+    "Customer_id": "275"
+  },
+  {
+    "CC_number": "4606159969900142",
+    "Maximum_Limit": "3758.64",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "304",
+    "Customer_id": "119"
+  },
+  {
+    "CC_number": "4607202285762839",
+    "Maximum_Limit": "2606.57",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "460",
+    "Customer_id": "461"
+  },
+  {
+    "CC_number": "4610159963730485",
+    "Maximum_Limit": "16995.21",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "385",
+    "Customer_id": "463"
+  },
+  {
+    "CC_number": "4639141543450669",
+    "Maximum_Limit": "17936.33",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "743",
+    "Customer_id": "485"
+  },
+  {
+    "CC_number": "4673986337351801",
+    "Maximum_Limit": "4483.67",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "472",
+    "Customer_id": "160"
+  },
+  {
+    "CC_number": "4699124710573734",
+    "Maximum_Limit": "14867.03",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "704",
+    "Customer_id": "389"
+  },
+  {
+    "CC_number": "4700735808949300",
+    "Maximum_Limit": "12337.78",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "827",
+    "Customer_id": "92"
+  },
+  {
+    "CC_number": "4703100759801857",
+    "Maximum_Limit": "10670.43",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "382",
+    "Customer_id": "187"
+  },
+  {
+    "CC_number": "4762741254441977",
+    "Maximum_Limit": "3398.13",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "487",
+    "Customer_id": "101"
+  },
+  {
+    "CC_number": "4786657823177375",
+    "Maximum_Limit": "18859.16",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "672",
+    "Customer_id": "477"
+  },
+  {
+    "CC_number": "4806922185879162",
+    "Maximum_Limit": "15675.58",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "823",
+    "Customer_id": "193"
+  },
+  {
+    "CC_number": "4819562184639909",
+    "Maximum_Limit": "5049.41",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "787",
+    "Customer_id": "345"
+  },
+  {
+    "CC_number": "4865816372424480",
+    "Maximum_Limit": "15464.37",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "733",
+    "Customer_id": "294"
+  },
+  {
+    "CC_number": "4908909307070421",
+    "Maximum_Limit": "14403.08",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "616",
+    "Customer_id": "341"
+  },
+  {
+    "CC_number": "4951839996196952",
+    "Maximum_Limit": "15278.42",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "709",
+    "Customer_id": "203"
+  },
+  {
+    "CC_number": "4959937344273859",
+    "Maximum_Limit": "17270.00",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "457",
+    "Customer_id": "257"
+  },
+  {
+    "CC_number": "5018525490213007",
+    "Maximum_Limit": "9617.56",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "551",
+    "Customer_id": "379"
+  },
+  {
+    "CC_number": "5038824294854932",
+    "Maximum_Limit": "7402.24",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "440",
+    "Customer_id": "125"
+  },
+  {
+    "CC_number": "5042798660157264",
+    "Maximum_Limit": "6122.83",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "659",
+    "Customer_id": "69"
+  },
+  {
+    "CC_number": "5046959833017196",
+    "Maximum_Limit": "9287.57",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "440",
+    "Customer_id": "38"
+  },
+  {
+    "CC_number": "5074076495061608",
+    "Maximum_Limit": "16624.17",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "527",
+    "Customer_id": "223"
+  },
+  {
+    "CC_number": "5082442437086362",
+    "Maximum_Limit": "8668.50",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "600",
+    "Customer_id": "307"
+  },
+  {
+    "CC_number": "5091048299008970",
+    "Maximum_Limit": "11276.76",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "601",
+    "Customer_id": "270"
+  },
+  {
+    "CC_number": "5098621972893210",
+    "Maximum_Limit": "7065.78",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "735",
+    "Customer_id": "340"
+  },
+  {
+    "CC_number": "5111797720795832",
+    "Maximum_Limit": "8699.28",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "461",
+    "Customer_id": "189"
+  },
+  {
+    "CC_number": "5134534401332190",
+    "Maximum_Limit": "16075.24",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "436",
+    "Customer_id": "304"
+  },
+  {
+    "CC_number": "5151074566601516",
+    "Maximum_Limit": "17337.70",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "773",
+    "Customer_id": "52"
+  },
+  {
+    "CC_number": "5155498910263146",
+    "Maximum_Limit": "1210.51",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "707",
+    "Customer_id": "202"
+  },
+  {
+    "CC_number": "5178609722255766",
+    "Maximum_Limit": "8493.96",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "340",
+    "Customer_id": "163"
+  },
+  {
+    "CC_number": "5211016796846578",
+    "Maximum_Limit": "10892.16",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "788",
+    "Customer_id": "483"
+  },
+  {
+    "CC_number": "5235134449830893",
+    "Maximum_Limit": "15098.99",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "624",
+    "Customer_id": "427"
+  },
+  {
+    "CC_number": "5246677700865185",
+    "Maximum_Limit": "4737.95",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "390",
+    "Customer_id": "331"
+  },
+  {
+    "CC_number": "5253027223202885",
+    "Maximum_Limit": "10905.01",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "347",
+    "Customer_id": "496"
+  },
+  {
+    "CC_number": "5280994919561998",
+    "Maximum_Limit": "11358.78",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "678",
+    "Customer_id": "209"
+  },
+  {
+    "CC_number": "5294589609331141",
+    "Maximum_Limit": "11041.21",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "835",
+    "Customer_id": "114"
+  },
+  {
+    "CC_number": "5307978000719851",
+    "Maximum_Limit": "15661.30",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "606",
+    "Customer_id": "143"
+  },
+  {
+    "CC_number": "5318952708357747",
+    "Maximum_Limit": "15607.24",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "499",
+    "Customer_id": "56"
+  },
+  {
+    "CC_number": "5320740194962589",
+    "Maximum_Limit": "8782.30",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "343",
+    "Customer_id": "65"
+  },
+  {
+    "CC_number": "5386321372471541",
+    "Maximum_Limit": "4303.49",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "665",
+    "Customer_id": "322"
+  },
+  {
+    "CC_number": "5398358522914186",
+    "Maximum_Limit": "2722.27",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "401",
+    "Customer_id": "369"
+  },
+  {
+    "CC_number": "5417845814519732",
+    "Maximum_Limit": "14427.85",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "312",
+    "Customer_id": "318"
+  },
+  {
+    "CC_number": "5419204222337062",
+    "Maximum_Limit": "16759.71",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "666",
+    "Customer_id": "314"
+  },
+  {
+    "CC_number": "5500053209863005",
+    "Maximum_Limit": "13607.85",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "594",
+    "Customer_id": "50"
+  },
+  {
+    "CC_number": "5519255435805307",
+    "Maximum_Limit": "14260.25",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "678",
+    "Customer_id": "256"
+  },
+  {
+    "CC_number": "5532184678612889",
+    "Maximum_Limit": "8246.40",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "313",
+    "Customer_id": "417"
+  },
+  {
+    "CC_number": "5547014460174812",
+    "Maximum_Limit": "18459.75",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "558",
+    "Customer_id": "37"
+  },
+  {
+    "CC_number": "5552634707773685",
+    "Maximum_Limit": "15510.67",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "662",
+    "Customer_id": "26"
+  },
+  {
+    "CC_number": "5687908768865114",
+    "Maximum_Limit": "5984.87",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "732",
+    "Customer_id": "184"
+  },
+  {
+    "CC_number": "5691368501420212",
+    "Maximum_Limit": "19929.82",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "759",
+    "Customer_id": "212"
+  },
+  {
+    "CC_number": "5750240580571262",
+    "Maximum_Limit": "9678.18",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "844",
+    "Customer_id": "90"
+  },
+  {
+    "CC_number": "5771743385129234",
+    "Maximum_Limit": "11152.00",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "499",
+    "Customer_id": "46"
+  },
+  {
+    "CC_number": "5792192215435386",
+    "Maximum_Limit": "3544.05",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "420",
+    "Customer_id": "151"
+  },
+  {
+    "CC_number": "5912622365361497",
+    "Maximum_Limit": "2962.35",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "506",
+    "Customer_id": "380"
+  },
+  {
+    "CC_number": "6043865942596073",
+    "Maximum_Limit": "15742.80",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "770",
+    "Customer_id": "424"
+  },
+  {
+    "CC_number": "6076844885483122",
+    "Maximum_Limit": "8395.57",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "839",
+    "Customer_id": "264"
+  },
+  {
+    "CC_number": "6084562616219528",
+    "Maximum_Limit": "12937.37",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "412",
+    "Customer_id": "156"
+  },
+  {
+    "CC_number": "6147981155993891",
+    "Maximum_Limit": "8556.14",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "816",
+    "Customer_id": "254"
+  },
+  {
+    "CC_number": "6318454086759952",
+    "Maximum_Limit": "2093.15",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "679",
+    "Customer_id": "132"
+  },
+  {
+    "CC_number": "6375127576114716",
+    "Maximum_Limit": "15448.26",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "728",
+    "Customer_id": "498"
+  },
+  {
+    "CC_number": "6410438414402651",
+    "Maximum_Limit": "6095.89",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "713",
+    "Customer_id": "137"
+  },
+  {
+    "CC_number": "6424590513664486",
+    "Maximum_Limit": "15391.89",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "715",
+    "Customer_id": "422"
+  },
+  {
+    "CC_number": "6463508516276444",
+    "Maximum_Limit": "9752.24",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "413",
+    "Customer_id": "25"
+  },
+  {
+    "CC_number": "6493753007464568",
+    "Maximum_Limit": "6400.31",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "377",
+    "Customer_id": "28"
+  },
+  {
+    "CC_number": "6519014495166455",
+    "Maximum_Limit": "12247.58",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "322",
+    "Customer_id": "68"
+  },
+  {
+    "CC_number": "6522113175172670",
+    "Maximum_Limit": "15332.66",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "531",
+    "Customer_id": "336"
+  },
+  {
+    "CC_number": "6534285627559250",
+    "Maximum_Limit": "6510.30",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "470",
+    "Customer_id": "30"
+  },
+  {
+    "CC_number": "6610449733667005",
+    "Maximum_Limit": "11521.71",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "788",
+    "Customer_id": "377"
+  },
+  {
+    "CC_number": "6629108792174679",
+    "Maximum_Limit": "10362.50",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "778",
+    "Customer_id": "243"
+  },
+  {
+    "CC_number": "6669445142208868",
+    "Maximum_Limit": "8116.48",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "470",
+    "Customer_id": "454"
+  },
+  {
+    "CC_number": "6687840017188875",
+    "Maximum_Limit": "10564.22",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "429",
+    "Customer_id": "390"
+  },
+  {
+    "CC_number": "6727929732817446",
+    "Maximum_Limit": "8378.87",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "788",
+    "Customer_id": "167"
+  },
+  {
+    "CC_number": "6740758730908407",
+    "Maximum_Limit": "2354.56",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "334",
+    "Customer_id": "213"
+  },
+  {
+    "CC_number": "6761988848150086",
+    "Maximum_Limit": "11728.01",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "606",
+    "Customer_id": "171"
+  },
+  {
+    "CC_number": "6811768223883845",
+    "Maximum_Limit": "18526.52",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "577",
+    "Customer_id": "3"
+  },
+  {
+    "CC_number": "6834067062565484",
+    "Maximum_Limit": "13149.59",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "538",
+    "Customer_id": "429"
+  },
+  {
+    "CC_number": "6868251629473577",
+    "Maximum_Limit": "4149.18",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "792",
+    "Customer_id": "269"
+  },
+  {
+    "CC_number": "6915323908530377",
+    "Maximum_Limit": "16347.45",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "762",
+    "Customer_id": "218"
+  },
+  {
+    "CC_number": "6974156136337406",
+    "Maximum_Limit": "13943.97",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "540",
+    "Customer_id": "408"
+  },
+  {
+    "CC_number": "7037149418633810",
+    "Maximum_Limit": "12795.41",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "759",
+    "Customer_id": "153"
+  },
+  {
+    "CC_number": "7040087216489368",
+    "Maximum_Limit": "14143.05",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "780",
+    "Customer_id": "407"
+  },
+  {
+    "CC_number": "7048571444771723",
+    "Maximum_Limit": "14172.59",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "816",
+    "Customer_id": "405"
+  },
+  {
+    "CC_number": "7063182166376918",
+    "Maximum_Limit": "12009.65",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "549",
+    "Customer_id": "409"
+  },
+  {
+    "CC_number": "7075565933259203",
+    "Maximum_Limit": "12226.09",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "743",
+    "Customer_id": "349"
+  },
+  {
+    "CC_number": "7091840261151354",
+    "Maximum_Limit": "17856.33",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "568",
+    "Customer_id": "479"
+  },
+  {
+    "CC_number": "7132966894101596",
+    "Maximum_Limit": "8787.33",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "555",
+    "Customer_id": "64"
+  },
+  {
+    "CC_number": "7194426765733161",
+    "Maximum_Limit": "16992.26",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "620",
+    "Customer_id": "44"
+  },
+  {
+    "CC_number": "7238833272768772",
+    "Maximum_Limit": "1309.10",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "709",
+    "Customer_id": "199"
+  },
+  {
+    "CC_number": "7243201488534105",
+    "Maximum_Limit": "7314.28",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "840",
+    "Customer_id": "130"
+  },
+  {
+    "CC_number": "7268964956857586",
+    "Maximum_Limit": "18609.75",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "739",
+    "Customer_id": "439"
+  },
+  {
+    "CC_number": "7301008317072070",
+    "Maximum_Limit": "12614.71",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "734",
+    "Customer_id": "109"
+  },
+  {
+    "CC_number": "7317440566679764",
+    "Maximum_Limit": "10695.33",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "797",
+    "Customer_id": "474"
+  },
+  {
+    "CC_number": "7382703647723422",
+    "Maximum_Limit": "1244.12",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "602",
+    "Customer_id": "375"
+  },
+  {
+    "CC_number": "7479744134028438",
+    "Maximum_Limit": "15339.28",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "844",
+    "Customer_id": "127"
+  },
+  {
+    "CC_number": "7502144557481257",
+    "Maximum_Limit": "13041.12",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "557",
+    "Customer_id": "116"
+  },
+  {
+    "CC_number": "7534986958189261",
+    "Maximum_Limit": "7120.98",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "408",
+    "Customer_id": "493"
+  },
+  {
+    "CC_number": "7548085191207574",
+    "Maximum_Limit": "19435.33",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "315",
+    "Customer_id": "117"
+  },
+  {
+    "CC_number": "7566907939602764",
+    "Maximum_Limit": "1508.90",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "483",
+    "Customer_id": "190"
+  },
+  {
+    "CC_number": "7586328280614975",
+    "Maximum_Limit": "2680.19",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "762",
+    "Customer_id": "334"
+  },
+  {
+    "CC_number": "7608588276728229",
+    "Maximum_Limit": "12249.81",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "307",
+    "Customer_id": "149"
+  },
+  {
+    "CC_number": "7612919824835706",
+    "Maximum_Limit": "16861.08",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "787",
+    "Customer_id": "489"
+  },
+  {
+    "CC_number": "7635664785871297",
+    "Maximum_Limit": "8376.89",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "454",
+    "Customer_id": "329"
+  },
+  {
+    "CC_number": "7644820609995018",
+    "Maximum_Limit": "7522.23",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "577",
+    "Customer_id": "311"
+  },
+  {
+    "CC_number": "7649825636838069",
+    "Maximum_Limit": "19654.89",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "679",
+    "Customer_id": "323"
+  },
+  {
+    "CC_number": "7662690440028038",
+    "Maximum_Limit": "3227.36",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "318",
+    "Customer_id": "219"
+  },
+  {
+    "CC_number": "7692835775859347",
+    "Maximum_Limit": "3564.54",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "318",
+    "Customer_id": "158"
+  },
+  {
+    "CC_number": "7770311351030828",
+    "Maximum_Limit": "18083.74",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "301",
+    "Customer_id": "16"
+  },
+  {
+    "CC_number": "7796547375431287",
+    "Maximum_Limit": "10403.03",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "771",
+    "Customer_id": "237"
+  },
+  {
+    "CC_number": "7808746841632466",
+    "Maximum_Limit": "8099.06",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "300",
+    "Customer_id": "142"
+  },
+  {
+    "CC_number": "7810294529580768",
+    "Maximum_Limit": "17030.49",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "470",
+    "Customer_id": "54"
+  },
+  {
+    "CC_number": "7839142034588820",
+    "Maximum_Limit": "2354.53",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "661",
+    "Customer_id": "259"
+  },
+  {
+    "CC_number": "7875814480989977",
+    "Maximum_Limit": "16943.73",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "335",
+    "Customer_id": "70"
+  },
+  {
+    "CC_number": "7922351057533288",
+    "Maximum_Limit": "15479.69",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "715",
+    "Customer_id": "232"
+  },
+  {
+    "CC_number": "7935446812215533",
+    "Maximum_Limit": "12732.71",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "469",
+    "Customer_id": "157"
+  },
+  {
+    "CC_number": "8020811675550296",
+    "Maximum_Limit": "17729.46",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "623",
+    "Customer_id": "470"
+  },
+  {
+    "CC_number": "8036760737427146",
+    "Maximum_Limit": "4039.21",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "624",
+    "Customer_id": "4"
+  },
+  {
+    "CC_number": "8047858052751582",
+    "Maximum_Limit": "18200.49",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "747",
+    "Customer_id": "287"
+  },
+  {
+    "CC_number": "8049502858437342",
+    "Maximum_Limit": "9594.60",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "680",
+    "Customer_id": "363"
+  },
+  {
+    "CC_number": "8055104043345936",
+    "Maximum_Limit": "10932.03",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "630",
+    "Customer_id": "258"
+  },
+  {
+    "CC_number": "8058487980947869",
+    "Maximum_Limit": "6532.90",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "513",
+    "Customer_id": "139"
+  },
+  {
+    "CC_number": "8082224523660478",
+    "Maximum_Limit": "3284.61",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "487",
+    "Customer_id": "180"
+  },
+  {
+    "CC_number": "8100556023957094",
+    "Maximum_Limit": "12118.47",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "449",
+    "Customer_id": "361"
+  },
+  {
+    "CC_number": "8105387464473564",
+    "Maximum_Limit": "9399.35",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "654",
+    "Customer_id": "466"
+  },
+  {
+    "CC_number": "8176262942151213",
+    "Maximum_Limit": "16273.99",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "685",
+    "Customer_id": "239"
+  },
+  {
+    "CC_number": "8193218124990257",
+    "Maximum_Limit": "15368.41",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "566",
+    "Customer_id": "140"
+  },
+  {
+    "CC_number": "8213878650975772",
+    "Maximum_Limit": "13123.09",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "588",
+    "Customer_id": "395"
+  },
+  {
+    "CC_number": "8231363959439816",
+    "Maximum_Limit": "17460.99",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "758",
+    "Customer_id": "384"
+  },
+  {
+    "CC_number": "8255912305248906",
+    "Maximum_Limit": "13331.48",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "300",
+    "Customer_id": "198"
+  },
+  {
+    "CC_number": "8339354035902269",
+    "Maximum_Limit": "5328.91",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "380",
+    "Customer_id": "480"
+  },
+  {
+    "CC_number": "8397993288029968",
+    "Maximum_Limit": "8745.69",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "449",
+    "Customer_id": "414"
+  },
+  {
+    "CC_number": "8430143369748515",
+    "Maximum_Limit": "3040.22",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "789",
+    "Customer_id": "48"
+  },
+  {
+    "CC_number": "8432407085112484",
+    "Maximum_Limit": "4918.60",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "480",
+    "Customer_id": "136"
+  },
+  {
+    "CC_number": "8452005553535837",
+    "Maximum_Limit": "11880.18",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "611",
+    "Customer_id": "182"
+  },
+  {
+    "CC_number": "8475689977142591",
+    "Maximum_Limit": "19489.80",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "458",
+    "Customer_id": "21"
+  },
+  {
+    "CC_number": "8513744527499204",
+    "Maximum_Limit": "9808.26",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "841",
+    "Customer_id": "201"
+  },
+  {
+    "CC_number": "8516046525487139",
+    "Maximum_Limit": "5494.69",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "757",
+    "Customer_id": "33"
+  },
+  {
+    "CC_number": "8589065084999622",
+    "Maximum_Limit": "12973.13",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "344",
+    "Customer_id": "231"
+  },
+  {
+    "CC_number": "8616629764073565",
+    "Maximum_Limit": "16404.72",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "440",
+    "Customer_id": "419"
+  },
+  {
+    "CC_number": "8628085941074880",
+    "Maximum_Limit": "13125.26",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "718",
+    "Customer_id": "352"
+  },
+  {
+    "CC_number": "8656309155431288",
+    "Maximum_Limit": "6844.39",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "729",
+    "Customer_id": "103"
+  },
+  {
+    "CC_number": "8669362617945081",
+    "Maximum_Limit": "8364.72",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "348",
+    "Customer_id": "141"
+  },
+  {
+    "CC_number": "8687399347403973",
+    "Maximum_Limit": "6774.65",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "524",
+    "Customer_id": "438"
+  },
+  {
+    "CC_number": "8694998453333435",
+    "Maximum_Limit": "14259.58",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "584",
+    "Customer_id": "362"
+  },
+  {
+    "CC_number": "8732687585592071",
+    "Maximum_Limit": "7207.62",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "850",
+    "Customer_id": "9"
+  },
+  {
+    "CC_number": "8808484692601615",
+    "Maximum_Limit": "2083.25",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "732",
+    "Customer_id": "15"
+  },
+  {
+    "CC_number": "8897379311498280",
+    "Maximum_Limit": "12818.75",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "542",
+    "Customer_id": "100"
+  },
+  {
+    "CC_number": "8967099748382642",
+    "Maximum_Limit": "13344.87",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "437",
+    "Customer_id": "388"
+  },
+  {
+    "CC_number": "9008128920377599",
+    "Maximum_Limit": "5990.10",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "719",
+    "Customer_id": "359"
+  },
+  {
+    "CC_number": "9072188893591568",
+    "Maximum_Limit": "9904.23",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "457",
+    "Customer_id": "266"
+  },
+  {
+    "CC_number": "9085472654448961",
+    "Maximum_Limit": "9808.57",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "309",
+    "Customer_id": "85"
+  },
+  {
+    "CC_number": "9136867127036860",
+    "Maximum_Limit": "3350.77",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "804",
+    "Customer_id": "106"
+  },
+  {
+    "CC_number": "9188911121026188",
+    "Maximum_Limit": "12613.05",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "761",
+    "Customer_id": "73"
+  },
+  {
+    "CC_number": "9213554413322675",
+    "Maximum_Limit": "6363.48",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "709",
+    "Customer_id": "399"
+  },
+  {
+    "CC_number": "9223561296880078",
+    "Maximum_Limit": "18678.48",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "605",
+    "Customer_id": "197"
+  },
+  {
+    "CC_number": "9294489272856000",
+    "Maximum_Limit": "9249.05",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "521",
+    "Customer_id": "337"
+  },
+  {
+    "CC_number": "9315329938531142",
+    "Maximum_Limit": "15494.89",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "447",
+    "Customer_id": "367"
+  },
+  {
+    "CC_number": "9347996880288110",
+    "Maximum_Limit": "7837.73",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "547",
+    "Customer_id": "238"
+  },
+  {
+    "CC_number": "9404520017202467",
+    "Maximum_Limit": "12133.18",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "705",
+    "Customer_id": "152"
+  },
+  {
+    "CC_number": "9404870919835101",
+    "Maximum_Limit": "11924.48",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "627",
+    "Customer_id": "83"
+  },
+  {
+    "CC_number": "9406829541730650",
+    "Maximum_Limit": "12565.55",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "370",
+    "Customer_id": "263"
+  },
+  {
+    "CC_number": "9411201634044609",
+    "Maximum_Limit": "7642.63",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "729",
+    "Customer_id": "211"
+  },
+  {
+    "CC_number": "9411675464716397",
+    "Maximum_Limit": "18858.23",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "352",
+    "Customer_id": "112"
+  },
+  {
+    "CC_number": "9417839206148690",
+    "Maximum_Limit": "2699.84",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "333",
+    "Customer_id": "110"
+  },
+  {
+    "CC_number": "9453537730901247",
+    "Maximum_Limit": "1155.62",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "501",
+    "Customer_id": "444"
+  },
+  {
+    "CC_number": "9476039708050306",
+    "Maximum_Limit": "4219.85",
+    "Expiry_Date": "2030-10-21",
+    "Credit_Score": "611",
+    "Customer_id": "244"
+  },
+  {
+    "CC_number": "9508287680596128",
+    "Maximum_Limit": "10492.23",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "805",
+    "Customer_id": "488"
+  },
+  {
+    "CC_number": "9579524635722402",
+    "Maximum_Limit": "5418.42",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "312",
+    "Customer_id": "71"
+  },
+  {
+    "CC_number": "9587336411996498",
+    "Maximum_Limit": "9397.96",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "600",
+    "Customer_id": "102"
+  },
+  {
+    "CC_number": "9680049116583288",
+    "Maximum_Limit": "8528.09",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "663",
+    "Customer_id": "370"
+  },
+  {
+    "CC_number": "9687922449515534",
+    "Maximum_Limit": "3812.65",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "472",
+    "Customer_id": "87"
+  },
+  {
+    "CC_number": "9710565319723856",
+    "Maximum_Limit": "6295.32",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "755",
+    "Customer_id": "221"
+  },
+  {
+    "CC_number": "9730652456287073",
+    "Maximum_Limit": "3994.22",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "483",
+    "Customer_id": "401"
+  },
+  {
+    "CC_number": "9775649419369690",
+    "Maximum_Limit": "11682.33",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "364",
+    "Customer_id": "445"
+  },
+  {
+    "CC_number": "9776526211147301",
+    "Maximum_Limit": "4721.79",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "772",
+    "Customer_id": "387"
+  },
+  {
+    "CC_number": "9852064349921848",
+    "Maximum_Limit": "11656.20",
+    "Expiry_Date": "2028-10-21",
+    "Credit_Score": "607",
+    "Customer_id": "443"
+  },
+  {
+    "CC_number": "9885099270816705",
+    "Maximum_Limit": "5087.83",
+    "Expiry_Date": "2026-10-21",
+    "Credit_Score": "300",
+    "Customer_id": "394"
+  },
+  {
+    "CC_number": "9904957600869805",
+    "Maximum_Limit": "16785.08",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "727",
+    "Customer_id": "338"
+  },
+  {
+    "CC_number": "9923588160147332",
+    "Maximum_Limit": "17605.33",
+    "Expiry_Date": "2029-10-21",
+    "Credit_Score": "323",
+    "Customer_id": "350"
+  },
+  {
+    "CC_number": "9931774168796373",
+    "Maximum_Limit": "8703.73",
+    "Expiry_Date": "2027-10-21",
+    "Credit_Score": "411",
+    "Customer_id": "333"
+  }
+]

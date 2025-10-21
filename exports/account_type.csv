@@ -1,0 +1,6 @@
+Account_Type,Minimum_Balance_Restriction
+Business,1000.00
+Checking,0.00
+Money Market,2500.00
+Savings,100.00
+Student,25.00

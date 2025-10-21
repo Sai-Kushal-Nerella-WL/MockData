@@ -1,0 +1,1802 @@
+[
+  {
+    "Loan_id": "1",
+    "Duration_in_Years": "13.48",
+    "Loan_Start_Date": "2016-01-14",
+    "Interest_Rate": "16.64",
+    "Loan_Amount_Taken": "36461.08",
+    "Loan_Amount_Repaid": "29606.28",
+    "Loan_Type": "Student",
+    "Customer_id": "4"
+  },
+  {
+    "Loan_id": "2",
+    "Duration_in_Years": "8.01",
+    "Loan_Start_Date": "2024-07-20",
+    "Interest_Rate": "9.44",
+    "Loan_Amount_Taken": "89634.96",
+    "Loan_Amount_Repaid": "70401.84",
+    "Loan_Type": "Home",
+    "Customer_id": "7"
+  },
+  {
+    "Loan_id": "3",
+    "Duration_in_Years": "28.23",
+    "Loan_Start_Date": "2013-08-22",
+    "Interest_Rate": "17.73",
+    "Loan_Amount_Taken": "31180.73",
+    "Loan_Amount_Repaid": "21350.69",
+    "Loan_Type": "Home",
+    "Customer_id": "8"
+  },
+  {
+    "Loan_id": "4",
+    "Duration_in_Years": "24.72",
+    "Loan_Start_Date": "2018-04-15",
+    "Interest_Rate": "13.33",
+    "Loan_Amount_Taken": "75800.23",
+    "Loan_Amount_Repaid": "64014.50",
+    "Loan_Type": "Student",
+    "Customer_id": "11"
+  },
+  {
+    "Loan_id": "5",
+    "Duration_in_Years": "1.36",
+    "Loan_Start_Date": "2014-12-14",
+    "Interest_Rate": "3.10",
+    "Loan_Amount_Taken": "28261.48",
+    "Loan_Amount_Repaid": "11279.32",
+    "Loan_Type": "Auto",
+    "Customer_id": "17"
+  },
+  {
+    "Loan_id": "6",
+    "Duration_in_Years": "26.17",
+    "Loan_Start_Date": "2015-05-04",
+    "Interest_Rate": "14.25",
+    "Loan_Amount_Taken": "9359.94",
+    "Loan_Amount_Repaid": "8419.23",
+    "Loan_Type": "Home",
+    "Customer_id": "20"
+  },
+  {
+    "Loan_id": "7",
+    "Duration_in_Years": "0.62",
+    "Loan_Start_Date": "2017-12-15",
+    "Interest_Rate": "17.34",
+    "Loan_Amount_Taken": "16951.90",
+    "Loan_Amount_Repaid": "3485.92",
+    "Loan_Type": "Personal",
+    "Customer_id": "21"
+  },
+  {
+    "Loan_id": "8",
+    "Duration_in_Years": "18.71",
+    "Loan_Start_Date": "2017-11-18",
+    "Interest_Rate": "12.36",
+    "Loan_Amount_Taken": "20580.46",
+    "Loan_Amount_Repaid": "3061.72",
+    "Loan_Type": "Auto",
+    "Customer_id": "26"
+  },
+  {
+    "Loan_id": "9",
+    "Duration_in_Years": "18.43",
+    "Loan_Start_Date": "2021-07-17",
+    "Interest_Rate": "5.83",
+    "Loan_Amount_Taken": "46940.80",
+    "Loan_Amount_Repaid": "8045.52",
+    "Loan_Type": "Personal",
+    "Customer_id": "33"
+  },
+  {
+    "Loan_id": "10",
+    "Duration_in_Years": "24.56",
+    "Loan_Start_Date": "2020-05-12",
+    "Interest_Rate": "11.42",
+    "Loan_Amount_Taken": "90311.88",
+    "Loan_Amount_Repaid": "2710.52",
+    "Loan_Type": "Student",
+    "Customer_id": "37"
+  },
+  {
+    "Loan_id": "11",
+    "Duration_in_Years": "23.09",
+    "Loan_Start_Date": "2019-05-22",
+    "Interest_Rate": "10.77",
+    "Loan_Amount_Taken": "61429.82",
+    "Loan_Amount_Repaid": "32466.19",
+    "Loan_Type": "Personal",
+    "Customer_id": "39"
+  },
+  {
+    "Loan_id": "12",
+    "Duration_in_Years": "7.36",
+    "Loan_Start_Date": "2016-12-29",
+    "Interest_Rate": "14.84",
+    "Loan_Amount_Taken": "46581.43",
+    "Loan_Amount_Repaid": "27275.11",
+    "Loan_Type": "Personal",
+    "Customer_id": "40"
+  },
+  {
+    "Loan_id": "13",
+    "Duration_in_Years": "22.12",
+    "Loan_Start_Date": "2016-06-20",
+    "Interest_Rate": "12.75",
+    "Loan_Amount_Taken": "25495.13",
+    "Loan_Amount_Repaid": "1974.36",
+    "Loan_Type": "Student",
+    "Customer_id": "41"
+  },
+  {
+    "Loan_id": "14",
+    "Duration_in_Years": "10.34",
+    "Loan_Start_Date": "2020-09-28",
+    "Interest_Rate": "15.37",
+    "Loan_Amount_Taken": "97179.07",
+    "Loan_Amount_Repaid": "45996.91",
+    "Loan_Type": "Personal",
+    "Customer_id": "42"
+  },
+  {
+    "Loan_id": "15",
+    "Duration_in_Years": "7.75",
+    "Loan_Start_Date": "2024-06-24",
+    "Interest_Rate": "4.31",
+    "Loan_Amount_Taken": "12227.33",
+    "Loan_Amount_Repaid": "5185.94",
+    "Loan_Type": "Auto",
+    "Customer_id": "46"
+  },
+  {
+    "Loan_id": "16",
+    "Duration_in_Years": "26.53",
+    "Loan_Start_Date": "2018-02-08",
+    "Interest_Rate": "5.24",
+    "Loan_Amount_Taken": "41039.04",
+    "Loan_Amount_Repaid": "8053.71",
+    "Loan_Type": "Student",
+    "Customer_id": "47"
+  },
+  {
+    "Loan_id": "17",
+    "Duration_in_Years": "16.92",
+    "Loan_Start_Date": "2021-09-22",
+    "Interest_Rate": "16.25",
+    "Loan_Amount_Taken": "18790.07",
+    "Loan_Amount_Repaid": "16323.73",
+    "Loan_Type": "Auto",
+    "Customer_id": "48"
+  },
+  {
+    "Loan_id": "18",
+    "Duration_in_Years": "24.08",
+    "Loan_Start_Date": "2023-03-06",
+    "Interest_Rate": "13.97",
+    "Loan_Amount_Taken": "29041.92",
+    "Loan_Amount_Repaid": "10565.63",
+    "Loan_Type": "Personal",
+    "Customer_id": "50"
+  },
+  {
+    "Loan_id": "19",
+    "Duration_in_Years": "2.98",
+    "Loan_Start_Date": "2023-06-12",
+    "Interest_Rate": "9.74",
+    "Loan_Amount_Taken": "87383.75",
+    "Loan_Amount_Repaid": "81617.76",
+    "Loan_Type": "Personal",
+    "Customer_id": "51"
+  },
+  {
+    "Loan_id": "20",
+    "Duration_in_Years": "19.43",
+    "Loan_Start_Date": "2022-01-25",
+    "Interest_Rate": "14.36",
+    "Loan_Amount_Taken": "99179.42",
+    "Loan_Amount_Repaid": "32972.18",
+    "Loan_Type": "Home",
+    "Customer_id": "53"
+  },
+  {
+    "Loan_id": "21",
+    "Duration_in_Years": "11.67",
+    "Loan_Start_Date": "2014-06-19",
+    "Interest_Rate": "4.20",
+    "Loan_Amount_Taken": "85916.76",
+    "Loan_Amount_Repaid": "66007.73",
+    "Loan_Type": "Personal",
+    "Customer_id": "56"
+  },
+  {
+    "Loan_id": "22",
+    "Duration_in_Years": "27.34",
+    "Loan_Start_Date": "2019-09-06",
+    "Interest_Rate": "14.16",
+    "Loan_Amount_Taken": "63155.96",
+    "Loan_Amount_Repaid": "7769.22",
+    "Loan_Type": "Auto",
+    "Customer_id": "57"
+  },
+  {
+    "Loan_id": "23",
+    "Duration_in_Years": "29.73",
+    "Loan_Start_Date": "2021-11-30",
+    "Interest_Rate": "6.42",
+    "Loan_Amount_Taken": "59490.31",
+    "Loan_Amount_Repaid": "52258.80",
+    "Loan_Type": "Auto",
+    "Customer_id": "60"
+  },
+  {
+    "Loan_id": "24",
+    "Duration_in_Years": "16.09",
+    "Loan_Start_Date": "2014-09-08",
+    "Interest_Rate": "8.31",
+    "Loan_Amount_Taken": "65877.79",
+    "Loan_Amount_Repaid": "40960.90",
+    "Loan_Type": "Home",
+    "Customer_id": "61"
+  },
+  {
+    "Loan_id": "25",
+    "Duration_in_Years": "11.37",
+    "Loan_Start_Date": "2011-03-17",
+    "Interest_Rate": "3.67",
+    "Loan_Amount_Taken": "32976.27",
+    "Loan_Amount_Repaid": "3931.74",
+    "Loan_Type": "Auto",
+    "Customer_id": "64"
+  },
+  {
+    "Loan_id": "26",
+    "Duration_in_Years": "16.95",
+    "Loan_Start_Date": "2019-12-22",
+    "Interest_Rate": "7.53",
+    "Loan_Amount_Taken": "95870.34",
+    "Loan_Amount_Repaid": "77920.25",
+    "Loan_Type": "Auto",
+    "Customer_id": "70"
+  },
+  {
+    "Loan_id": "27",
+    "Duration_in_Years": "12.43",
+    "Loan_Start_Date": "2019-01-30",
+    "Interest_Rate": "16.51",
+    "Loan_Amount_Taken": "51310.87",
+    "Loan_Amount_Repaid": "7199.64",
+    "Loan_Type": "Auto",
+    "Customer_id": "72"
+  },
+  {
+    "Loan_id": "28",
+    "Duration_in_Years": "19.25",
+    "Loan_Start_Date": "2019-10-13",
+    "Interest_Rate": "12.29",
+    "Loan_Amount_Taken": "74988.16",
+    "Loan_Amount_Repaid": "74072.26",
+    "Loan_Type": "Home",
+    "Customer_id": "78"
+  },
+  {
+    "Loan_id": "29",
+    "Duration_in_Years": "18.05",
+    "Loan_Start_Date": "2016-07-15",
+    "Interest_Rate": "6.26",
+    "Loan_Amount_Taken": "4595.53",
+    "Loan_Amount_Repaid": "3717.80",
+    "Loan_Type": "Student",
+    "Customer_id": "82"
+  },
+  {
+    "Loan_id": "30",
+    "Duration_in_Years": "27.43",
+    "Loan_Start_Date": "2012-05-26",
+    "Interest_Rate": "17.31",
+    "Loan_Amount_Taken": "86113.47",
+    "Loan_Amount_Repaid": "5499.34",
+    "Loan_Type": "Home",
+    "Customer_id": "86"
+  },
+  {
+    "Loan_id": "31",
+    "Duration_in_Years": "13.41",
+    "Loan_Start_Date": "2017-12-15",
+    "Interest_Rate": "11.51",
+    "Loan_Amount_Taken": "9597.61",
+    "Loan_Amount_Repaid": "7416.49",
+    "Loan_Type": "Home",
+    "Customer_id": "88"
+  },
+  {
+    "Loan_id": "32",
+    "Duration_in_Years": "21.95",
+    "Loan_Start_Date": "2021-07-10",
+    "Interest_Rate": "3.76",
+    "Loan_Amount_Taken": "18139.61",
+    "Loan_Amount_Repaid": "40.37",
+    "Loan_Type": "Home",
+    "Customer_id": "89"
+  },
+  {
+    "Loan_id": "33",
+    "Duration_in_Years": "27.36",
+    "Loan_Start_Date": "2015-01-10",
+    "Interest_Rate": "5.06",
+    "Loan_Amount_Taken": "26923.30",
+    "Loan_Amount_Repaid": "1418.94",
+    "Loan_Type": "Student",
+    "Customer_id": "90"
+  },
+  {
+    "Loan_id": "34",
+    "Duration_in_Years": "2.27",
+    "Loan_Start_Date": "2017-01-13",
+    "Interest_Rate": "16.27",
+    "Loan_Amount_Taken": "15099.10",
+    "Loan_Amount_Repaid": "13974.27",
+    "Loan_Type": "Personal",
+    "Customer_id": "94"
+  },
+  {
+    "Loan_id": "35",
+    "Duration_in_Years": "18.75",
+    "Loan_Start_Date": "2017-04-08",
+    "Interest_Rate": "12.08",
+    "Loan_Amount_Taken": "38448.71",
+    "Loan_Amount_Repaid": "32699.36",
+    "Loan_Type": "Student",
+    "Customer_id": "97"
+  },
+  {
+    "Loan_id": "36",
+    "Duration_in_Years": "2.49",
+    "Loan_Start_Date": "2023-11-27",
+    "Interest_Rate": "6.81",
+    "Loan_Amount_Taken": "5177.19",
+    "Loan_Amount_Repaid": "319.20",
+    "Loan_Type": "Personal",
+    "Customer_id": "99"
+  },
+  {
+    "Loan_id": "37",
+    "Duration_in_Years": "7.07",
+    "Loan_Start_Date": "2014-11-08",
+    "Interest_Rate": "5.13",
+    "Loan_Amount_Taken": "40441.15",
+    "Loan_Amount_Repaid": "25948.60",
+    "Loan_Type": "Student",
+    "Customer_id": "100"
+  },
+  {
+    "Loan_id": "38",
+    "Duration_in_Years": "5.50",
+    "Loan_Start_Date": "2018-08-01",
+    "Interest_Rate": "13.97",
+    "Loan_Amount_Taken": "98016.05",
+    "Loan_Amount_Repaid": "56733.18",
+    "Loan_Type": "Personal",
+    "Customer_id": "101"
+  },
+  {
+    "Loan_id": "39",
+    "Duration_in_Years": "26.91",
+    "Loan_Start_Date": "2014-10-27",
+    "Interest_Rate": "13.39",
+    "Loan_Amount_Taken": "48112.72",
+    "Loan_Amount_Repaid": "21016.45",
+    "Loan_Type": "Auto",
+    "Customer_id": "103"
+  },
+  {
+    "Loan_id": "40",
+    "Duration_in_Years": "14.34",
+    "Loan_Start_Date": "2012-05-01",
+    "Interest_Rate": "12.44",
+    "Loan_Amount_Taken": "32810.38",
+    "Loan_Amount_Repaid": "15678.78",
+    "Loan_Type": "Auto",
+    "Customer_id": "105"
+  },
+  {
+    "Loan_id": "41",
+    "Duration_in_Years": "8.54",
+    "Loan_Start_Date": "2013-10-18",
+    "Interest_Rate": "4.10",
+    "Loan_Amount_Taken": "38159.24",
+    "Loan_Amount_Repaid": "8334.67",
+    "Loan_Type": "Home",
+    "Customer_id": "110"
+  },
+  {
+    "Loan_id": "42",
+    "Duration_in_Years": "29.21",
+    "Loan_Start_Date": "2016-01-30",
+    "Interest_Rate": "14.00",
+    "Loan_Amount_Taken": "7456.13",
+    "Loan_Amount_Repaid": "1762.49",
+    "Loan_Type": "Auto",
+    "Customer_id": "113"
+  },
+  {
+    "Loan_id": "43",
+    "Duration_in_Years": "9.56",
+    "Loan_Start_Date": "2015-04-24",
+    "Interest_Rate": "16.56",
+    "Loan_Amount_Taken": "62505.36",
+    "Loan_Amount_Repaid": "13218.57",
+    "Loan_Type": "Student",
+    "Customer_id": "120"
+  },
+  {
+    "Loan_id": "44",
+    "Duration_in_Years": "24.02",
+    "Loan_Start_Date": "2023-11-08",
+    "Interest_Rate": "3.38",
+    "Loan_Amount_Taken": "49644.62",
+    "Loan_Amount_Repaid": "41962.64",
+    "Loan_Type": "Personal",
+    "Customer_id": "121"
+  },
+  {
+    "Loan_id": "45",
+    "Duration_in_Years": "9.67",
+    "Loan_Start_Date": "2011-02-08",
+    "Interest_Rate": "6.93",
+    "Loan_Amount_Taken": "18189.07",
+    "Loan_Amount_Repaid": "2487.86",
+    "Loan_Type": "Home",
+    "Customer_id": "122"
+  },
+  {
+    "Loan_id": "46",
+    "Duration_in_Years": "2.30",
+    "Loan_Start_Date": "2017-12-23",
+    "Interest_Rate": "17.73",
+    "Loan_Amount_Taken": "29187.46",
+    "Loan_Amount_Repaid": "16999.59",
+    "Loan_Type": "Auto",
+    "Customer_id": "125"
+  },
+  {
+    "Loan_id": "47",
+    "Duration_in_Years": "24.13",
+    "Loan_Start_Date": "2011-06-07",
+    "Interest_Rate": "6.28",
+    "Loan_Amount_Taken": "38603.10",
+    "Loan_Amount_Repaid": "12984.78",
+    "Loan_Type": "Student",
+    "Customer_id": "126"
+  },
+  {
+    "Loan_id": "48",
+    "Duration_in_Years": "12.81",
+    "Loan_Start_Date": "2017-09-04",
+    "Interest_Rate": "14.49",
+    "Loan_Amount_Taken": "82649.77",
+    "Loan_Amount_Repaid": "59733.96",
+    "Loan_Type": "Personal",
+    "Customer_id": "129"
+  },
+  {
+    "Loan_id": "49",
+    "Duration_in_Years": "24.47",
+    "Loan_Start_Date": "2017-11-24",
+    "Interest_Rate": "13.78",
+    "Loan_Amount_Taken": "87797.38",
+    "Loan_Amount_Repaid": "22125.58",
+    "Loan_Type": "Auto",
+    "Customer_id": "131"
+  },
+  {
+    "Loan_id": "50",
+    "Duration_in_Years": "28.18",
+    "Loan_Start_Date": "2013-06-14",
+    "Interest_Rate": "15.36",
+    "Loan_Amount_Taken": "18705.41",
+    "Loan_Amount_Repaid": "17642.33",
+    "Loan_Type": "Student",
+    "Customer_id": "132"
+  },
+  {
+    "Loan_id": "51",
+    "Duration_in_Years": "5.51",
+    "Loan_Start_Date": "2022-04-08",
+    "Interest_Rate": "15.70",
+    "Loan_Amount_Taken": "50193.84",
+    "Loan_Amount_Repaid": "16293.96",
+    "Loan_Type": "Auto",
+    "Customer_id": "136"
+  },
+  {
+    "Loan_id": "52",
+    "Duration_in_Years": "12.22",
+    "Loan_Start_Date": "2020-02-03",
+    "Interest_Rate": "13.02",
+    "Loan_Amount_Taken": "17886.63",
+    "Loan_Amount_Repaid": "14068.52",
+    "Loan_Type": "Home",
+    "Customer_id": "141"
+  },
+  {
+    "Loan_id": "53",
+    "Duration_in_Years": "10.51",
+    "Loan_Start_Date": "2024-12-14",
+    "Interest_Rate": "9.28",
+    "Loan_Amount_Taken": "82353.40",
+    "Loan_Amount_Repaid": "54746.35",
+    "Loan_Type": "Home",
+    "Customer_id": "142"
+  },
+  {
+    "Loan_id": "54",
+    "Duration_in_Years": "8.84",
+    "Loan_Start_Date": "2016-07-02",
+    "Interest_Rate": "11.25",
+    "Loan_Amount_Taken": "72020.87",
+    "Loan_Amount_Repaid": "67796.47",
+    "Loan_Type": "Personal",
+    "Customer_id": "145"
+  },
+  {
+    "Loan_id": "55",
+    "Duration_in_Years": "2.54",
+    "Loan_Start_Date": "2021-04-13",
+    "Interest_Rate": "12.97",
+    "Loan_Amount_Taken": "84041.35",
+    "Loan_Amount_Repaid": "45664.52",
+    "Loan_Type": "Student",
+    "Customer_id": "147"
+  },
+  {
+    "Loan_id": "56",
+    "Duration_in_Years": "2.57",
+    "Loan_Start_Date": "2022-11-15",
+    "Interest_Rate": "13.71",
+    "Loan_Amount_Taken": "17780.44",
+    "Loan_Amount_Repaid": "5055.34",
+    "Loan_Type": "Auto",
+    "Customer_id": "149"
+  },
+  {
+    "Loan_id": "57",
+    "Duration_in_Years": "1.16",
+    "Loan_Start_Date": "2020-04-15",
+    "Interest_Rate": "5.67",
+    "Loan_Amount_Taken": "7835.98",
+    "Loan_Amount_Repaid": "2775.25",
+    "Loan_Type": "Student",
+    "Customer_id": "150"
+  },
+  {
+    "Loan_id": "58",
+    "Duration_in_Years": "15.13",
+    "Loan_Start_Date": "2015-09-28",
+    "Interest_Rate": "4.73",
+    "Loan_Amount_Taken": "53666.59",
+    "Loan_Amount_Repaid": "26735.63",
+    "Loan_Type": "Auto",
+    "Customer_id": "151"
+  },
+  {
+    "Loan_id": "59",
+    "Duration_in_Years": "8.96",
+    "Loan_Start_Date": "2012-01-22",
+    "Interest_Rate": "3.52",
+    "Loan_Amount_Taken": "23414.18",
+    "Loan_Amount_Repaid": "11884.77",
+    "Loan_Type": "Home",
+    "Customer_id": "156"
+  },
+  {
+    "Loan_id": "60",
+    "Duration_in_Years": "22.27",
+    "Loan_Start_Date": "2020-08-13",
+    "Interest_Rate": "3.45",
+    "Loan_Amount_Taken": "26030.47",
+    "Loan_Amount_Repaid": "25650.83",
+    "Loan_Type": "Personal",
+    "Customer_id": "159"
+  },
+  {
+    "Loan_id": "61",
+    "Duration_in_Years": "7.87",
+    "Loan_Start_Date": "2011-03-03",
+    "Interest_Rate": "14.97",
+    "Loan_Amount_Taken": "10510.05",
+    "Loan_Amount_Repaid": "6832.64",
+    "Loan_Type": "Student",
+    "Customer_id": "160"
+  },
+  {
+    "Loan_id": "62",
+    "Duration_in_Years": "18.34",
+    "Loan_Start_Date": "2021-05-04",
+    "Interest_Rate": "3.85",
+    "Loan_Amount_Taken": "19711.97",
+    "Loan_Amount_Repaid": "313.28",
+    "Loan_Type": "Student",
+    "Customer_id": "161"
+  },
+  {
+    "Loan_id": "63",
+    "Duration_in_Years": "14.82",
+    "Loan_Start_Date": "2016-07-16",
+    "Interest_Rate": "10.23",
+    "Loan_Amount_Taken": "58874.48",
+    "Loan_Amount_Repaid": "54741.47",
+    "Loan_Type": "Student",
+    "Customer_id": "166"
+  },
+  {
+    "Loan_id": "64",
+    "Duration_in_Years": "11.03",
+    "Loan_Start_Date": "2019-02-08",
+    "Interest_Rate": "7.63",
+    "Loan_Amount_Taken": "95505.00",
+    "Loan_Amount_Repaid": "36050.76",
+    "Loan_Type": "Home",
+    "Customer_id": "170"
+  },
+  {
+    "Loan_id": "65",
+    "Duration_in_Years": "18.59",
+    "Loan_Start_Date": "2020-03-13",
+    "Interest_Rate": "5.63",
+    "Loan_Amount_Taken": "90152.41",
+    "Loan_Amount_Repaid": "45460.64",
+    "Loan_Type": "Home",
+    "Customer_id": "171"
+  },
+  {
+    "Loan_id": "66",
+    "Duration_in_Years": "6.53",
+    "Loan_Start_Date": "2018-09-27",
+    "Interest_Rate": "8.26",
+    "Loan_Amount_Taken": "6951.15",
+    "Loan_Amount_Repaid": "2654.08",
+    "Loan_Type": "Auto",
+    "Customer_id": "172"
+  },
+  {
+    "Loan_id": "67",
+    "Duration_in_Years": "28.41",
+    "Loan_Start_Date": "2023-12-18",
+    "Interest_Rate": "5.69",
+    "Loan_Amount_Taken": "69732.45",
+    "Loan_Amount_Repaid": "13151.00",
+    "Loan_Type": "Home",
+    "Customer_id": "176"
+  },
+  {
+    "Loan_id": "68",
+    "Duration_in_Years": "22.53",
+    "Loan_Start_Date": "2025-03-02",
+    "Interest_Rate": "9.70",
+    "Loan_Amount_Taken": "66172.87",
+    "Loan_Amount_Repaid": "20837.90",
+    "Loan_Type": "Auto",
+    "Customer_id": "177"
+  },
+  {
+    "Loan_id": "69",
+    "Duration_in_Years": "0.92",
+    "Loan_Start_Date": "2015-12-09",
+    "Interest_Rate": "6.86",
+    "Loan_Amount_Taken": "15584.23",
+    "Loan_Amount_Repaid": "12399.47",
+    "Loan_Type": "Home",
+    "Customer_id": "179"
+  },
+  {
+    "Loan_id": "70",
+    "Duration_in_Years": "9.26",
+    "Loan_Start_Date": "2014-06-08",
+    "Interest_Rate": "9.90",
+    "Loan_Amount_Taken": "99909.33",
+    "Loan_Amount_Repaid": "74567.33",
+    "Loan_Type": "Auto",
+    "Customer_id": "180"
+  },
+  {
+    "Loan_id": "71",
+    "Duration_in_Years": "28.80",
+    "Loan_Start_Date": "2013-03-11",
+    "Interest_Rate": "17.75",
+    "Loan_Amount_Taken": "93753.59",
+    "Loan_Amount_Repaid": "91745.39",
+    "Loan_Type": "Personal",
+    "Customer_id": "181"
+  },
+  {
+    "Loan_id": "72",
+    "Duration_in_Years": "17.22",
+    "Loan_Start_Date": "2015-02-01",
+    "Interest_Rate": "16.73",
+    "Loan_Amount_Taken": "59146.97",
+    "Loan_Amount_Repaid": "3175.01",
+    "Loan_Type": "Personal",
+    "Customer_id": "187"
+  },
+  {
+    "Loan_id": "73",
+    "Duration_in_Years": "24.03",
+    "Loan_Start_Date": "2017-09-14",
+    "Interest_Rate": "10.36",
+    "Loan_Amount_Taken": "5290.57",
+    "Loan_Amount_Repaid": "1210.96",
+    "Loan_Type": "Auto",
+    "Customer_id": "188"
+  },
+  {
+    "Loan_id": "74",
+    "Duration_in_Years": "16.16",
+    "Loan_Start_Date": "2013-04-05",
+    "Interest_Rate": "11.84",
+    "Loan_Amount_Taken": "55527.40",
+    "Loan_Amount_Repaid": "29818.93",
+    "Loan_Type": "Home",
+    "Customer_id": "191"
+  },
+  {
+    "Loan_id": "75",
+    "Duration_in_Years": "11.83",
+    "Loan_Start_Date": "2018-04-27",
+    "Interest_Rate": "12.19",
+    "Loan_Amount_Taken": "61128.34",
+    "Loan_Amount_Repaid": "58175.75",
+    "Loan_Type": "Home",
+    "Customer_id": "196"
+  },
+  {
+    "Loan_id": "76",
+    "Duration_in_Years": "29.99",
+    "Loan_Start_Date": "2019-02-10",
+    "Interest_Rate": "9.20",
+    "Loan_Amount_Taken": "83948.67",
+    "Loan_Amount_Repaid": "33040.83",
+    "Loan_Type": "Personal",
+    "Customer_id": "199"
+  },
+  {
+    "Loan_id": "77",
+    "Duration_in_Years": "8.11",
+    "Loan_Start_Date": "2017-07-01",
+    "Interest_Rate": "5.13",
+    "Loan_Amount_Taken": "82817.31",
+    "Loan_Amount_Repaid": "489.04",
+    "Loan_Type": "Auto",
+    "Customer_id": "200"
+  },
+  {
+    "Loan_id": "78",
+    "Duration_in_Years": "2.54",
+    "Loan_Start_Date": "2012-08-14",
+    "Interest_Rate": "9.78",
+    "Loan_Amount_Taken": "50383.63",
+    "Loan_Amount_Repaid": "470.36",
+    "Loan_Type": "Student",
+    "Customer_id": "206"
+  },
+  {
+    "Loan_id": "79",
+    "Duration_in_Years": "9.39",
+    "Loan_Start_Date": "2015-09-06",
+    "Interest_Rate": "17.05",
+    "Loan_Amount_Taken": "6415.09",
+    "Loan_Amount_Repaid": "5730.54",
+    "Loan_Type": "Auto",
+    "Customer_id": "208"
+  },
+  {
+    "Loan_id": "80",
+    "Duration_in_Years": "1.81",
+    "Loan_Start_Date": "2022-12-06",
+    "Interest_Rate": "16.57",
+    "Loan_Amount_Taken": "64884.62",
+    "Loan_Amount_Repaid": "22301.63",
+    "Loan_Type": "Home",
+    "Customer_id": "210"
+  },
+  {
+    "Loan_id": "81",
+    "Duration_in_Years": "14.11",
+    "Loan_Start_Date": "2025-01-29",
+    "Interest_Rate": "15.34",
+    "Loan_Amount_Taken": "69736.84",
+    "Loan_Amount_Repaid": "46446.92",
+    "Loan_Type": "Student",
+    "Customer_id": "211"
+  },
+  {
+    "Loan_id": "82",
+    "Duration_in_Years": "20.35",
+    "Loan_Start_Date": "2023-06-07",
+    "Interest_Rate": "8.91",
+    "Loan_Amount_Taken": "70703.24",
+    "Loan_Amount_Repaid": "29932.76",
+    "Loan_Type": "Auto",
+    "Customer_id": "212"
+  },
+  {
+    "Loan_id": "83",
+    "Duration_in_Years": "24.16",
+    "Loan_Start_Date": "2023-11-02",
+    "Interest_Rate": "8.47",
+    "Loan_Amount_Taken": "49758.07",
+    "Loan_Amount_Repaid": "30754.61",
+    "Loan_Type": "Personal",
+    "Customer_id": "214"
+  },
+  {
+    "Loan_id": "84",
+    "Duration_in_Years": "19.60",
+    "Loan_Start_Date": "2014-07-12",
+    "Interest_Rate": "13.53",
+    "Loan_Amount_Taken": "19393.72",
+    "Loan_Amount_Repaid": "6696.86",
+    "Loan_Type": "Auto",
+    "Customer_id": "216"
+  },
+  {
+    "Loan_id": "85",
+    "Duration_in_Years": "2.04",
+    "Loan_Start_Date": "2017-01-11",
+    "Interest_Rate": "10.58",
+    "Loan_Amount_Taken": "10850.36",
+    "Loan_Amount_Repaid": "3852.49",
+    "Loan_Type": "Home",
+    "Customer_id": "222"
+  },
+  {
+    "Loan_id": "86",
+    "Duration_in_Years": "10.09",
+    "Loan_Start_Date": "2016-06-24",
+    "Interest_Rate": "13.00",
+    "Loan_Amount_Taken": "74786.13",
+    "Loan_Amount_Repaid": "8212.39",
+    "Loan_Type": "Home",
+    "Customer_id": "223"
+  },
+  {
+    "Loan_id": "87",
+    "Duration_in_Years": "4.02",
+    "Loan_Start_Date": "2016-07-15",
+    "Interest_Rate": "4.31",
+    "Loan_Amount_Taken": "57730.08",
+    "Loan_Amount_Repaid": "21388.75",
+    "Loan_Type": "Home",
+    "Customer_id": "234"
+  },
+  {
+    "Loan_id": "88",
+    "Duration_in_Years": "6.04",
+    "Loan_Start_Date": "2022-11-08",
+    "Interest_Rate": "6.54",
+    "Loan_Amount_Taken": "59527.21",
+    "Loan_Amount_Repaid": "24723.20",
+    "Loan_Type": "Personal",
+    "Customer_id": "235"
+  },
+  {
+    "Loan_id": "89",
+    "Duration_in_Years": "19.42",
+    "Loan_Start_Date": "2016-03-03",
+    "Interest_Rate": "16.50",
+    "Loan_Amount_Taken": "14608.61",
+    "Loan_Amount_Repaid": "13860.58",
+    "Loan_Type": "Student",
+    "Customer_id": "240"
+  },
+  {
+    "Loan_id": "90",
+    "Duration_in_Years": "10.75",
+    "Loan_Start_Date": "2014-09-17",
+    "Interest_Rate": "12.22",
+    "Loan_Amount_Taken": "43636.03",
+    "Loan_Amount_Repaid": "9794.84",
+    "Loan_Type": "Personal",
+    "Customer_id": "254"
+  },
+  {
+    "Loan_id": "91",
+    "Duration_in_Years": "2.82",
+    "Loan_Start_Date": "2020-03-10",
+    "Interest_Rate": "4.56",
+    "Loan_Amount_Taken": "36059.37",
+    "Loan_Amount_Repaid": "20315.81",
+    "Loan_Type": "Home",
+    "Customer_id": "259"
+  },
+  {
+    "Loan_id": "92",
+    "Duration_in_Years": "21.70",
+    "Loan_Start_Date": "2025-08-01",
+    "Interest_Rate": "4.21",
+    "Loan_Amount_Taken": "29593.61",
+    "Loan_Amount_Repaid": "17353.99",
+    "Loan_Type": "Student",
+    "Customer_id": "261"
+  },
+  {
+    "Loan_id": "93",
+    "Duration_in_Years": "17.33",
+    "Loan_Start_Date": "2014-07-16",
+    "Interest_Rate": "15.87",
+    "Loan_Amount_Taken": "12576.08",
+    "Loan_Amount_Repaid": "7620.33",
+    "Loan_Type": "Auto",
+    "Customer_id": "262"
+  },
+  {
+    "Loan_id": "94",
+    "Duration_in_Years": "7.17",
+    "Loan_Start_Date": "2017-02-04",
+    "Interest_Rate": "2.57",
+    "Loan_Amount_Taken": "53368.21",
+    "Loan_Amount_Repaid": "35615.65",
+    "Loan_Type": "Auto",
+    "Customer_id": "265"
+  },
+  {
+    "Loan_id": "95",
+    "Duration_in_Years": "12.81",
+    "Loan_Start_Date": "2021-03-08",
+    "Interest_Rate": "12.44",
+    "Loan_Amount_Taken": "3182.94",
+    "Loan_Amount_Repaid": "600.19",
+    "Loan_Type": "Personal",
+    "Customer_id": "266"
+  },
+  {
+    "Loan_id": "96",
+    "Duration_in_Years": "24.11",
+    "Loan_Start_Date": "2025-10-06",
+    "Interest_Rate": "14.89",
+    "Loan_Amount_Taken": "77102.41",
+    "Loan_Amount_Repaid": "40157.81",
+    "Loan_Type": "Home",
+    "Customer_id": "270"
+  },
+  {
+    "Loan_id": "97",
+    "Duration_in_Years": "1.04",
+    "Loan_Start_Date": "2022-12-12",
+    "Interest_Rate": "7.28",
+    "Loan_Amount_Taken": "74960.27",
+    "Loan_Amount_Repaid": "35139.40",
+    "Loan_Type": "Auto",
+    "Customer_id": "273"
+  },
+  {
+    "Loan_id": "98",
+    "Duration_in_Years": "22.57",
+    "Loan_Start_Date": "2018-07-09",
+    "Interest_Rate": "4.47",
+    "Loan_Amount_Taken": "70086.89",
+    "Loan_Amount_Repaid": "26698.70",
+    "Loan_Type": "Auto",
+    "Customer_id": "275"
+  },
+  {
+    "Loan_id": "99",
+    "Duration_in_Years": "4.96",
+    "Loan_Start_Date": "2020-05-11",
+    "Interest_Rate": "15.44",
+    "Loan_Amount_Taken": "56565.36",
+    "Loan_Amount_Repaid": "39058.49",
+    "Loan_Type": "Home",
+    "Customer_id": "278"
+  },
+  {
+    "Loan_id": "100",
+    "Duration_in_Years": "2.39",
+    "Loan_Start_Date": "2023-07-01",
+    "Interest_Rate": "3.96",
+    "Loan_Amount_Taken": "65644.91",
+    "Loan_Amount_Repaid": "43629.30",
+    "Loan_Type": "Auto",
+    "Customer_id": "289"
+  },
+  {
+    "Loan_id": "101",
+    "Duration_in_Years": "24.38",
+    "Loan_Start_Date": "2021-02-12",
+    "Interest_Rate": "12.38",
+    "Loan_Amount_Taken": "49473.81",
+    "Loan_Amount_Repaid": "29827.58",
+    "Loan_Type": "Student",
+    "Customer_id": "291"
+  },
+  {
+    "Loan_id": "102",
+    "Duration_in_Years": "9.46",
+    "Loan_Start_Date": "2021-11-16",
+    "Interest_Rate": "10.36",
+    "Loan_Amount_Taken": "65791.30",
+    "Loan_Amount_Repaid": "61745.95",
+    "Loan_Type": "Auto",
+    "Customer_id": "293"
+  },
+  {
+    "Loan_id": "103",
+    "Duration_in_Years": "15.70",
+    "Loan_Start_Date": "2018-04-07",
+    "Interest_Rate": "2.66",
+    "Loan_Amount_Taken": "95262.39",
+    "Loan_Amount_Repaid": "31090.71",
+    "Loan_Type": "Auto",
+    "Customer_id": "294"
+  },
+  {
+    "Loan_id": "104",
+    "Duration_in_Years": "8.70",
+    "Loan_Start_Date": "2025-02-11",
+    "Interest_Rate": "15.41",
+    "Loan_Amount_Taken": "18957.19",
+    "Loan_Amount_Repaid": "12587.97",
+    "Loan_Type": "Student",
+    "Customer_id": "297"
+  },
+  {
+    "Loan_id": "105",
+    "Duration_in_Years": "3.68",
+    "Loan_Start_Date": "2021-04-20",
+    "Interest_Rate": "4.91",
+    "Loan_Amount_Taken": "69472.52",
+    "Loan_Amount_Repaid": "46289.17",
+    "Loan_Type": "Personal",
+    "Customer_id": "299"
+  },
+  {
+    "Loan_id": "106",
+    "Duration_in_Years": "10.24",
+    "Loan_Start_Date": "2015-09-05",
+    "Interest_Rate": "15.37",
+    "Loan_Amount_Taken": "69548.83",
+    "Loan_Amount_Repaid": "66269.89",
+    "Loan_Type": "Personal",
+    "Customer_id": "301"
+  },
+  {
+    "Loan_id": "107",
+    "Duration_in_Years": "7.86",
+    "Loan_Start_Date": "2017-07-11",
+    "Interest_Rate": "8.74",
+    "Loan_Amount_Taken": "81011.34",
+    "Loan_Amount_Repaid": "63486.38",
+    "Loan_Type": "Student",
+    "Customer_id": "302"
+  },
+  {
+    "Loan_id": "108",
+    "Duration_in_Years": "10.23",
+    "Loan_Start_Date": "2019-06-09",
+    "Interest_Rate": "15.66",
+    "Loan_Amount_Taken": "70698.87",
+    "Loan_Amount_Repaid": "54640.93",
+    "Loan_Type": "Personal",
+    "Customer_id": "305"
+  },
+  {
+    "Loan_id": "109",
+    "Duration_in_Years": "7.52",
+    "Loan_Start_Date": "2014-07-13",
+    "Interest_Rate": "16.44",
+    "Loan_Amount_Taken": "72876.33",
+    "Loan_Amount_Repaid": "69684.37",
+    "Loan_Type": "Home",
+    "Customer_id": "309"
+  },
+  {
+    "Loan_id": "110",
+    "Duration_in_Years": "13.53",
+    "Loan_Start_Date": "2016-07-12",
+    "Interest_Rate": "6.66",
+    "Loan_Amount_Taken": "13838.79",
+    "Loan_Amount_Repaid": "8124.77",
+    "Loan_Type": "Home",
+    "Customer_id": "311"
+  },
+  {
+    "Loan_id": "111",
+    "Duration_in_Years": "10.89",
+    "Loan_Start_Date": "2016-07-10",
+    "Interest_Rate": "15.51",
+    "Loan_Amount_Taken": "73136.48",
+    "Loan_Amount_Repaid": "29855.01",
+    "Loan_Type": "Auto",
+    "Customer_id": "312"
+  },
+  {
+    "Loan_id": "112",
+    "Duration_in_Years": "25.65",
+    "Loan_Start_Date": "2020-01-24",
+    "Interest_Rate": "13.98",
+    "Loan_Amount_Taken": "78312.21",
+    "Loan_Amount_Repaid": "14856.76",
+    "Loan_Type": "Personal",
+    "Customer_id": "329"
+  },
+  {
+    "Loan_id": "113",
+    "Duration_in_Years": "16.31",
+    "Loan_Start_Date": "2016-01-03",
+    "Interest_Rate": "7.82",
+    "Loan_Amount_Taken": "88378.24",
+    "Loan_Amount_Repaid": "81180.45",
+    "Loan_Type": "Personal",
+    "Customer_id": "334"
+  },
+  {
+    "Loan_id": "114",
+    "Duration_in_Years": "1.50",
+    "Loan_Start_Date": "2012-09-27",
+    "Interest_Rate": "15.69",
+    "Loan_Amount_Taken": "74206.49",
+    "Loan_Amount_Repaid": "65419.79",
+    "Loan_Type": "Personal",
+    "Customer_id": "335"
+  },
+  {
+    "Loan_id": "115",
+    "Duration_in_Years": "29.20",
+    "Loan_Start_Date": "2017-08-18",
+    "Interest_Rate": "17.37",
+    "Loan_Amount_Taken": "22412.13",
+    "Loan_Amount_Repaid": "15620.49",
+    "Loan_Type": "Auto",
+    "Customer_id": "340"
+  },
+  {
+    "Loan_id": "116",
+    "Duration_in_Years": "3.07",
+    "Loan_Start_Date": "2011-07-08",
+    "Interest_Rate": "9.62",
+    "Loan_Amount_Taken": "13468.19",
+    "Loan_Amount_Repaid": "10507.85",
+    "Loan_Type": "Student",
+    "Customer_id": "342"
+  },
+  {
+    "Loan_id": "117",
+    "Duration_in_Years": "16.17",
+    "Loan_Start_Date": "2013-10-23",
+    "Interest_Rate": "3.14",
+    "Loan_Amount_Taken": "24514.58",
+    "Loan_Amount_Repaid": "841.77",
+    "Loan_Type": "Student",
+    "Customer_id": "345"
+  },
+  {
+    "Loan_id": "118",
+    "Duration_in_Years": "25.81",
+    "Loan_Start_Date": "2020-10-17",
+    "Interest_Rate": "16.86",
+    "Loan_Amount_Taken": "67556.24",
+    "Loan_Amount_Repaid": "1963.71",
+    "Loan_Type": "Auto",
+    "Customer_id": "346"
+  },
+  {
+    "Loan_id": "119",
+    "Duration_in_Years": "13.09",
+    "Loan_Start_Date": "2015-02-11",
+    "Interest_Rate": "9.14",
+    "Loan_Amount_Taken": "76318.47",
+    "Loan_Amount_Repaid": "44099.88",
+    "Loan_Type": "Auto",
+    "Customer_id": "350"
+  },
+  {
+    "Loan_id": "120",
+    "Duration_in_Years": "7.88",
+    "Loan_Start_Date": "2020-10-14",
+    "Interest_Rate": "17.80",
+    "Loan_Amount_Taken": "45492.23",
+    "Loan_Amount_Repaid": "13431.04",
+    "Loan_Type": "Student",
+    "Customer_id": "353"
+  },
+  {
+    "Loan_id": "121",
+    "Duration_in_Years": "12.47",
+    "Loan_Start_Date": "2018-06-30",
+    "Interest_Rate": "10.10",
+    "Loan_Amount_Taken": "63634.80",
+    "Loan_Amount_Repaid": "159.75",
+    "Loan_Type": "Personal",
+    "Customer_id": "357"
+  },
+  {
+    "Loan_id": "122",
+    "Duration_in_Years": "6.44",
+    "Loan_Start_Date": "2020-05-02",
+    "Interest_Rate": "3.68",
+    "Loan_Amount_Taken": "27542.70",
+    "Loan_Amount_Repaid": "22549.23",
+    "Loan_Type": "Personal",
+    "Customer_id": "362"
+  },
+  {
+    "Loan_id": "123",
+    "Duration_in_Years": "8.48",
+    "Loan_Start_Date": "2016-04-04",
+    "Interest_Rate": "16.36",
+    "Loan_Amount_Taken": "94734.77",
+    "Loan_Amount_Repaid": "94220.08",
+    "Loan_Type": "Student",
+    "Customer_id": "364"
+  },
+  {
+    "Loan_id": "124",
+    "Duration_in_Years": "15.77",
+    "Loan_Start_Date": "2014-07-14",
+    "Interest_Rate": "9.15",
+    "Loan_Amount_Taken": "66785.98",
+    "Loan_Amount_Repaid": "50426.97",
+    "Loan_Type": "Home",
+    "Customer_id": "366"
+  },
+  {
+    "Loan_id": "125",
+    "Duration_in_Years": "3.29",
+    "Loan_Start_Date": "2012-07-30",
+    "Interest_Rate": "14.91",
+    "Loan_Amount_Taken": "17761.14",
+    "Loan_Amount_Repaid": "3771.49",
+    "Loan_Type": "Student",
+    "Customer_id": "367"
+  },
+  {
+    "Loan_id": "126",
+    "Duration_in_Years": "26.89",
+    "Loan_Start_Date": "2025-01-27",
+    "Interest_Rate": "11.24",
+    "Loan_Amount_Taken": "98475.00",
+    "Loan_Amount_Repaid": "76550.04",
+    "Loan_Type": "Home",
+    "Customer_id": "370"
+  },
+  {
+    "Loan_id": "127",
+    "Duration_in_Years": "11.89",
+    "Loan_Start_Date": "2018-09-24",
+    "Interest_Rate": "11.93",
+    "Loan_Amount_Taken": "85242.78",
+    "Loan_Amount_Repaid": "66453.61",
+    "Loan_Type": "Student",
+    "Customer_id": "371"
+  },
+  {
+    "Loan_id": "128",
+    "Duration_in_Years": "20.31",
+    "Loan_Start_Date": "2025-01-08",
+    "Interest_Rate": "9.49",
+    "Loan_Amount_Taken": "4506.39",
+    "Loan_Amount_Repaid": "4129.50",
+    "Loan_Type": "Personal",
+    "Customer_id": "373"
+  },
+  {
+    "Loan_id": "129",
+    "Duration_in_Years": "7.34",
+    "Loan_Start_Date": "2018-11-16",
+    "Interest_Rate": "13.79",
+    "Loan_Amount_Taken": "45220.74",
+    "Loan_Amount_Repaid": "34289.82",
+    "Loan_Type": "Personal",
+    "Customer_id": "374"
+  },
+  {
+    "Loan_id": "130",
+    "Duration_in_Years": "24.70",
+    "Loan_Start_Date": "2011-07-16",
+    "Interest_Rate": "17.53",
+    "Loan_Amount_Taken": "41384.72",
+    "Loan_Amount_Repaid": "23690.89",
+    "Loan_Type": "Personal",
+    "Customer_id": "375"
+  },
+  {
+    "Loan_id": "131",
+    "Duration_in_Years": "28.42",
+    "Loan_Start_Date": "2017-04-30",
+    "Interest_Rate": "10.22",
+    "Loan_Amount_Taken": "12516.63",
+    "Loan_Amount_Repaid": "6647.95",
+    "Loan_Type": "Auto",
+    "Customer_id": "376"
+  },
+  {
+    "Loan_id": "132",
+    "Duration_in_Years": "9.17",
+    "Loan_Start_Date": "2010-12-30",
+    "Interest_Rate": "10.89",
+    "Loan_Amount_Taken": "21710.53",
+    "Loan_Amount_Repaid": "288.15",
+    "Loan_Type": "Personal",
+    "Customer_id": "377"
+  },
+  {
+    "Loan_id": "133",
+    "Duration_in_Years": "19.86",
+    "Loan_Start_Date": "2021-05-27",
+    "Interest_Rate": "14.21",
+    "Loan_Amount_Taken": "10485.48",
+    "Loan_Amount_Repaid": "9468.29",
+    "Loan_Type": "Personal",
+    "Customer_id": "381"
+  },
+  {
+    "Loan_id": "134",
+    "Duration_in_Years": "8.84",
+    "Loan_Start_Date": "2021-09-26",
+    "Interest_Rate": "7.36",
+    "Loan_Amount_Taken": "30793.07",
+    "Loan_Amount_Repaid": "20379.82",
+    "Loan_Type": "Student",
+    "Customer_id": "383"
+  },
+  {
+    "Loan_id": "135",
+    "Duration_in_Years": "16.50",
+    "Loan_Start_Date": "2015-10-07",
+    "Interest_Rate": "13.03",
+    "Loan_Amount_Taken": "77616.80",
+    "Loan_Amount_Repaid": "19163.78",
+    "Loan_Type": "Student",
+    "Customer_id": "388"
+  },
+  {
+    "Loan_id": "136",
+    "Duration_in_Years": "9.95",
+    "Loan_Start_Date": "2024-03-19",
+    "Interest_Rate": "16.36",
+    "Loan_Amount_Taken": "73335.46",
+    "Loan_Amount_Repaid": "42332.06",
+    "Loan_Type": "Personal",
+    "Customer_id": "393"
+  },
+  {
+    "Loan_id": "137",
+    "Duration_in_Years": "29.23",
+    "Loan_Start_Date": "2013-06-20",
+    "Interest_Rate": "5.88",
+    "Loan_Amount_Taken": "22820.34",
+    "Loan_Amount_Repaid": "13963.63",
+    "Loan_Type": "Student",
+    "Customer_id": "394"
+  },
+  {
+    "Loan_id": "138",
+    "Duration_in_Years": "1.13",
+    "Loan_Start_Date": "2023-07-26",
+    "Interest_Rate": "10.41",
+    "Loan_Amount_Taken": "67573.87",
+    "Loan_Amount_Repaid": "44090.36",
+    "Loan_Type": "Student",
+    "Customer_id": "395"
+  },
+  {
+    "Loan_id": "139",
+    "Duration_in_Years": "6.53",
+    "Loan_Start_Date": "2011-10-28",
+    "Interest_Rate": "16.03",
+    "Loan_Amount_Taken": "69676.94",
+    "Loan_Amount_Repaid": "39609.55",
+    "Loan_Type": "Student",
+    "Customer_id": "396"
+  },
+  {
+    "Loan_id": "140",
+    "Duration_in_Years": "5.42",
+    "Loan_Start_Date": "2025-09-15",
+    "Interest_Rate": "9.81",
+    "Loan_Amount_Taken": "75706.83",
+    "Loan_Amount_Repaid": "18347.99",
+    "Loan_Type": "Personal",
+    "Customer_id": "398"
+  },
+  {
+    "Loan_id": "141",
+    "Duration_in_Years": "2.79",
+    "Loan_Start_Date": "2015-04-08",
+    "Interest_Rate": "10.39",
+    "Loan_Amount_Taken": "23879.77",
+    "Loan_Amount_Repaid": "20706.67",
+    "Loan_Type": "Home",
+    "Customer_id": "402"
+  },
+  {
+    "Loan_id": "142",
+    "Duration_in_Years": "13.84",
+    "Loan_Start_Date": "2024-03-15",
+    "Interest_Rate": "11.69",
+    "Loan_Amount_Taken": "83262.42",
+    "Loan_Amount_Repaid": "33803.85",
+    "Loan_Type": "Auto",
+    "Customer_id": "403"
+  },
+  {
+    "Loan_id": "143",
+    "Duration_in_Years": "29.73",
+    "Loan_Start_Date": "2018-08-21",
+    "Interest_Rate": "14.96",
+    "Loan_Amount_Taken": "17296.38",
+    "Loan_Amount_Repaid": "16779.62",
+    "Loan_Type": "Personal",
+    "Customer_id": "406"
+  },
+  {
+    "Loan_id": "144",
+    "Duration_in_Years": "5.98",
+    "Loan_Start_Date": "2025-07-08",
+    "Interest_Rate": "5.74",
+    "Loan_Amount_Taken": "51341.18",
+    "Loan_Amount_Repaid": "38629.18",
+    "Loan_Type": "Home",
+    "Customer_id": "407"
+  },
+  {
+    "Loan_id": "145",
+    "Duration_in_Years": "5.66",
+    "Loan_Start_Date": "2018-07-19",
+    "Interest_Rate": "7.79",
+    "Loan_Amount_Taken": "60515.69",
+    "Loan_Amount_Repaid": "40085.00",
+    "Loan_Type": "Student",
+    "Customer_id": "413"
+  },
+  {
+    "Loan_id": "146",
+    "Duration_in_Years": "25.33",
+    "Loan_Start_Date": "2015-02-12",
+    "Interest_Rate": "17.19",
+    "Loan_Amount_Taken": "92496.00",
+    "Loan_Amount_Repaid": "26065.73",
+    "Loan_Type": "Personal",
+    "Customer_id": "414"
+  },
+  {
+    "Loan_id": "147",
+    "Duration_in_Years": "13.85",
+    "Loan_Start_Date": "2021-10-27",
+    "Interest_Rate": "8.01",
+    "Loan_Amount_Taken": "75019.86",
+    "Loan_Amount_Repaid": "23732.91",
+    "Loan_Type": "Personal",
+    "Customer_id": "415"
+  },
+  {
+    "Loan_id": "148",
+    "Duration_in_Years": "16.19",
+    "Loan_Start_Date": "2018-07-23",
+    "Interest_Rate": "4.66",
+    "Loan_Amount_Taken": "81465.77",
+    "Loan_Amount_Repaid": "67095.14",
+    "Loan_Type": "Student",
+    "Customer_id": "417"
+  },
+  {
+    "Loan_id": "149",
+    "Duration_in_Years": "28.47",
+    "Loan_Start_Date": "2023-07-01",
+    "Interest_Rate": "15.19",
+    "Loan_Amount_Taken": "13025.18",
+    "Loan_Amount_Repaid": "6781.24",
+    "Loan_Type": "Personal",
+    "Customer_id": "421"
+  },
+  {
+    "Loan_id": "150",
+    "Duration_in_Years": "2.70",
+    "Loan_Start_Date": "2015-06-29",
+    "Interest_Rate": "9.13",
+    "Loan_Amount_Taken": "24757.90",
+    "Loan_Amount_Repaid": "21405.71",
+    "Loan_Type": "Student",
+    "Customer_id": "424"
+  },
+  {
+    "Loan_id": "151",
+    "Duration_in_Years": "22.65",
+    "Loan_Start_Date": "2013-11-15",
+    "Interest_Rate": "2.64",
+    "Loan_Amount_Taken": "38090.39",
+    "Loan_Amount_Repaid": "25178.46",
+    "Loan_Type": "Auto",
+    "Customer_id": "426"
+  },
+  {
+    "Loan_id": "152",
+    "Duration_in_Years": "8.15",
+    "Loan_Start_Date": "2018-07-19",
+    "Interest_Rate": "13.39",
+    "Loan_Amount_Taken": "8635.67",
+    "Loan_Amount_Repaid": "5033.67",
+    "Loan_Type": "Auto",
+    "Customer_id": "428"
+  },
+  {
+    "Loan_id": "153",
+    "Duration_in_Years": "27.69",
+    "Loan_Start_Date": "2019-02-04",
+    "Interest_Rate": "14.07",
+    "Loan_Amount_Taken": "95400.95",
+    "Loan_Amount_Repaid": "4924.66",
+    "Loan_Type": "Personal",
+    "Customer_id": "430"
+  },
+  {
+    "Loan_id": "154",
+    "Duration_in_Years": "4.58",
+    "Loan_Start_Date": "2018-08-10",
+    "Interest_Rate": "9.51",
+    "Loan_Amount_Taken": "63119.46",
+    "Loan_Amount_Repaid": "55907.23",
+    "Loan_Type": "Personal",
+    "Customer_id": "436"
+  },
+  {
+    "Loan_id": "155",
+    "Duration_in_Years": "21.81",
+    "Loan_Start_Date": "2013-11-28",
+    "Interest_Rate": "17.05",
+    "Loan_Amount_Taken": "86630.39",
+    "Loan_Amount_Repaid": "75696.74",
+    "Loan_Type": "Auto",
+    "Customer_id": "437"
+  },
+  {
+    "Loan_id": "156",
+    "Duration_in_Years": "28.86",
+    "Loan_Start_Date": "2022-07-19",
+    "Interest_Rate": "9.69",
+    "Loan_Amount_Taken": "64703.95",
+    "Loan_Amount_Repaid": "52028.34",
+    "Loan_Type": "Student",
+    "Customer_id": "440"
+  },
+  {
+    "Loan_id": "157",
+    "Duration_in_Years": "23.30",
+    "Loan_Start_Date": "2014-05-04",
+    "Interest_Rate": "16.59",
+    "Loan_Amount_Taken": "53482.80",
+    "Loan_Amount_Repaid": "35925.40",
+    "Loan_Type": "Student",
+    "Customer_id": "441"
+  },
+  {
+    "Loan_id": "158",
+    "Duration_in_Years": "14.35",
+    "Loan_Start_Date": "2021-02-11",
+    "Interest_Rate": "13.11",
+    "Loan_Amount_Taken": "89442.20",
+    "Loan_Amount_Repaid": "19283.73",
+    "Loan_Type": "Personal",
+    "Customer_id": "447"
+  },
+  {
+    "Loan_id": "159",
+    "Duration_in_Years": "26.17",
+    "Loan_Start_Date": "2021-08-25",
+    "Interest_Rate": "8.90",
+    "Loan_Amount_Taken": "56906.11",
+    "Loan_Amount_Repaid": "25260.65",
+    "Loan_Type": "Home",
+    "Customer_id": "449"
+  },
+  {
+    "Loan_id": "160",
+    "Duration_in_Years": "3.16",
+    "Loan_Start_Date": "2021-11-12",
+    "Interest_Rate": "16.96",
+    "Loan_Amount_Taken": "72942.59",
+    "Loan_Amount_Repaid": "69399.22",
+    "Loan_Type": "Auto",
+    "Customer_id": "454"
+  },
+  {
+    "Loan_id": "161",
+    "Duration_in_Years": "28.20",
+    "Loan_Start_Date": "2017-01-07",
+    "Interest_Rate": "5.37",
+    "Loan_Amount_Taken": "75859.45",
+    "Loan_Amount_Repaid": "74.07",
+    "Loan_Type": "Auto",
+    "Customer_id": "455"
+  },
+  {
+    "Loan_id": "162",
+    "Duration_in_Years": "11.14",
+    "Loan_Start_Date": "2018-02-21",
+    "Interest_Rate": "8.20",
+    "Loan_Amount_Taken": "73769.77",
+    "Loan_Amount_Repaid": "67236.42",
+    "Loan_Type": "Home",
+    "Customer_id": "457"
+  },
+  {
+    "Loan_id": "163",
+    "Duration_in_Years": "27.53",
+    "Loan_Start_Date": "2023-11-21",
+    "Interest_Rate": "6.55",
+    "Loan_Amount_Taken": "89959.02",
+    "Loan_Amount_Repaid": "79867.15",
+    "Loan_Type": "Home",
+    "Customer_id": "460"
+  },
+  {
+    "Loan_id": "164",
+    "Duration_in_Years": "1.33",
+    "Loan_Start_Date": "2022-04-02",
+    "Interest_Rate": "10.33",
+    "Loan_Amount_Taken": "24759.76",
+    "Loan_Amount_Repaid": "9961.77",
+    "Loan_Type": "Student",
+    "Customer_id": "461"
+  },
+  {
+    "Loan_id": "165",
+    "Duration_in_Years": "9.60",
+    "Loan_Start_Date": "2015-10-15",
+    "Interest_Rate": "11.48",
+    "Loan_Amount_Taken": "31670.93",
+    "Loan_Amount_Repaid": "19394.43",
+    "Loan_Type": "Student",
+    "Customer_id": "463"
+  },
+  {
+    "Loan_id": "166",
+    "Duration_in_Years": "21.56",
+    "Loan_Start_Date": "2011-02-18",
+    "Interest_Rate": "4.66",
+    "Loan_Amount_Taken": "83175.20",
+    "Loan_Amount_Repaid": "41899.14",
+    "Loan_Type": "Auto",
+    "Customer_id": "465"
+  },
+  {
+    "Loan_id": "167",
+    "Duration_in_Years": "15.97",
+    "Loan_Start_Date": "2021-12-07",
+    "Interest_Rate": "15.68",
+    "Loan_Amount_Taken": "74436.19",
+    "Loan_Amount_Repaid": "27294.71",
+    "Loan_Type": "Student",
+    "Customer_id": "466"
+  },
+  {
+    "Loan_id": "168",
+    "Duration_in_Years": "9.29",
+    "Loan_Start_Date": "2017-02-18",
+    "Interest_Rate": "3.28",
+    "Loan_Amount_Taken": "30632.87",
+    "Loan_Amount_Repaid": "19148.82",
+    "Loan_Type": "Auto",
+    "Customer_id": "468"
+  },
+  {
+    "Loan_id": "169",
+    "Duration_in_Years": "16.56",
+    "Loan_Start_Date": "2021-11-01",
+    "Interest_Rate": "10.57",
+    "Loan_Amount_Taken": "58508.74",
+    "Loan_Amount_Repaid": "49793.18",
+    "Loan_Type": "Personal",
+    "Customer_id": "469"
+  },
+  {
+    "Loan_id": "170",
+    "Duration_in_Years": "16.85",
+    "Loan_Start_Date": "2017-02-12",
+    "Interest_Rate": "3.15",
+    "Loan_Amount_Taken": "21831.02",
+    "Loan_Amount_Repaid": "359.04",
+    "Loan_Type": "Student",
+    "Customer_id": "474"
+  },
+  {
+    "Loan_id": "171",
+    "Duration_in_Years": "15.67",
+    "Loan_Start_Date": "2025-06-27",
+    "Interest_Rate": "6.15",
+    "Loan_Amount_Taken": "40624.89",
+    "Loan_Amount_Repaid": "36243.93",
+    "Loan_Type": "Auto",
+    "Customer_id": "475"
+  },
+  {
+    "Loan_id": "172",
+    "Duration_in_Years": "24.31",
+    "Loan_Start_Date": "2020-06-07",
+    "Interest_Rate": "6.44",
+    "Loan_Amount_Taken": "9912.14",
+    "Loan_Amount_Repaid": "895.11",
+    "Loan_Type": "Auto",
+    "Customer_id": "483"
+  },
+  {
+    "Loan_id": "173",
+    "Duration_in_Years": "20.85",
+    "Loan_Start_Date": "2017-02-05",
+    "Interest_Rate": "8.89",
+    "Loan_Amount_Taken": "11311.69",
+    "Loan_Amount_Repaid": "8068.96",
+    "Loan_Type": "Student",
+    "Customer_id": "486"
+  },
+  {
+    "Loan_id": "174",
+    "Duration_in_Years": "16.24",
+    "Loan_Start_Date": "2018-05-18",
+    "Interest_Rate": "9.53",
+    "Loan_Amount_Taken": "9092.31",
+    "Loan_Amount_Repaid": "6820.42",
+    "Loan_Type": "Student",
+    "Customer_id": "492"
+  },
+  {
+    "Loan_id": "175",
+    "Duration_in_Years": "23.03",
+    "Loan_Start_Date": "2023-06-22",
+    "Interest_Rate": "12.32",
+    "Loan_Amount_Taken": "89716.32",
+    "Loan_Amount_Repaid": "31579.73",
+    "Loan_Type": "Personal",
+    "Customer_id": "493"
+  },
+  {
+    "Loan_id": "176",
+    "Duration_in_Years": "12.73",
+    "Loan_Start_Date": "2024-10-28",
+    "Interest_Rate": "13.97",
+    "Loan_Amount_Taken": "39499.68",
+    "Loan_Amount_Repaid": "38805.63",
+    "Loan_Type": "Home",
+    "Customer_id": "495"
+  },
+  {
+    "Loan_id": "177",
+    "Duration_in_Years": "12.86",
+    "Loan_Start_Date": "2025-05-30",
+    "Interest_Rate": "12.38",
+    "Loan_Amount_Taken": "40167.67",
+    "Loan_Amount_Repaid": "246.12",
+    "Loan_Type": "Student",
+    "Customer_id": "496"
+  },
+  {
+    "Loan_id": "178",
+    "Duration_in_Years": "24.96",
+    "Loan_Start_Date": "2011-10-22",
+    "Interest_Rate": "4.14",
+    "Loan_Amount_Taken": "66692.00",
+    "Loan_Amount_Repaid": "13288.49",
+    "Loan_Type": "Student",
+    "Customer_id": "497"
+  },
+  {
+    "Loan_id": "179",
+    "Duration_in_Years": "1.21",
+    "Loan_Start_Date": "2017-01-31",
+    "Interest_Rate": "12.21",
+    "Loan_Amount_Taken": "32601.83",
+    "Loan_Amount_Repaid": "2366.61",
+    "Loan_Type": "Personal",
+    "Customer_id": "499"
+  },
+  {
+    "Loan_id": "180",
+    "Duration_in_Years": "25.53",
+    "Loan_Start_Date": "2022-07-01",
+    "Interest_Rate": "16.59",
+    "Loan_Amount_Taken": "48122.55",
+    "Loan_Amount_Repaid": "44749.32",
+    "Loan_Type": "Student",
+    "Customer_id": "500"
+  }
+]

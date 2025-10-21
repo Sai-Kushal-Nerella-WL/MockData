@@ -1,0 +1,22 @@
+[
+  {
+    "Account_Type": "Business",
+    "Minimum_Balance_Restriction": "1000.00"
+  },
+  {
+    "Account_Type": "Checking",
+    "Minimum_Balance_Restriction": "0.00"
+  },
+  {
+    "Account_Type": "Money Market",
+    "Minimum_Balance_Restriction": "2500.00"
+  },
+  {
+    "Account_Type": "Savings",
+    "Minimum_Balance_Restriction": "100.00"
+  },
+  {
+    "Account_Type": "Student",
+    "Minimum_Balance_Restriction": "25.00"
+  }
+]
